@@ -1,0 +1,1025 @@
+INFO: 07-15 11:15:12: base_methods.py:26 * 12200  * BaseMethod is calling ...       
+INFO: 07-15 11:15:58: base_methods.py:26 * 6160  * BaseMethod is calling ...       
+INFO: 07-15 11:16:41: base_methods.py:26 * 7324  * BaseMethod is calling ...       
+INFO: 07-15 11:16:47: base_methods.py:98 * 7324 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 11:16:49: base_methods.py:171 * 7324 The element '<appium.webdriver.webelement.WebElement (session="2d3dc7a2-d4a1-4266-865c-37e495b25299", element="1")>' was clicked
+INFO: 07-15 11:20:47: base_methods.py:26 * 8536  * BaseMethod is calling ...       
+INFO: 07-15 11:20:53: base_methods.py:98 * 8536 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 11:20:55: base_methods.py:171 * 8536 The element '<appium.webdriver.webelement.WebElement (session="a7c7437b-480e-4517-87ca-fd1f3b596aa0", element="1")>' was clicked
+INFO: 07-15 11:22:26: base_methods.py:26 * 17320  * BaseMethod is calling ...       
+INFO: 07-15 11:22:32: base_methods.py:98 * 17320 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 11:22:36: base_methods.py:172 * 17320 The element '<appium.webdriver.webelement.WebElement (session="8aef72f1-2ca3-4808-89d2-0b259ffca566", element="1")>' was clicked
+INFO: 07-15 11:23:19: base_methods.py:26 * 13020  * BaseMethod is calling ...       
+INFO: 07-15 11:23:25: base_methods.py:98 * 13020 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 11:23:29: base_methods.py:172 * 13020 The element '<appium.webdriver.webelement.WebElement (session="0979e0ff-d5c2-4de2-be0a-b8a6cf64b355", element="1")>' was clicked
+INFO: 07-15 11:24:11: base_methods.py:26 * 6336  * BaseMethod is calling ...       
+INFO: 07-15 11:24:17: base_methods.py:98 * 6336 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 11:24:21: base_methods.py:172 * 6336 The element '<appium.webdriver.webelement.WebElement (session="8ff617b5-b89e-4ee6-90b9-98aadccbb6fb", element="1")>' was clicked
+INFO: 07-15 11:24:26: base_methods.py:115 * 6336 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text="立即体验"]
+INFO: 07-15 11:24:28: base_methods.py:172 * 6336 The element '<appium.webdriver.webelement.WebElement (session="8ff617b5-b89e-4ee6-90b9-98aadccbb6fb", element="2")>' was clicked
+INFO: 07-15 11:27:54: base_methods.py:26 * 17260  * BaseMethod is calling ...       
+INFO: 07-15 11:28:00: base_methods.py:98 * 17260 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 11:28:05: base_methods.py:172 * 17260 The element '<appium.webdriver.webelement.WebElement (session="f37efcd4-4153-4740-adee-9311c99697f8", element="1")>' was clicked
+INFO: 07-15 11:28:09: base_methods.py:115 * 17260 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text="立即体验"]
+INFO: 07-15 11:28:11: base_methods.py:172 * 17260 The element '<appium.webdriver.webelement.WebElement (session="f37efcd4-4153-4740-adee-9311c99697f8", element="2")>' was clicked
+INFO: 07-15 11:28:12: base_methods.py:115 * 17260 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 11:28:15: base_methods.py:172 * 17260 The element '<appium.webdriver.webelement.WebElement (session="f37efcd4-4153-4740-adee-9311c99697f8", element="3")>' was clicked
+INFO: 07-15 11:28:16: base_methods.py:115 * 17260 Had find the element '登录' successful by xpath value: //android.widget.TextView[@text="登录"]
+INFO: 07-15 11:28:18: base_methods.py:172 * 17260 The element '<appium.webdriver.webelement.WebElement (session="f37efcd4-4153-4740-adee-9311c99697f8", element="4")>' was clicked
+INFO: 07-15 11:29:17: base_methods.py:26 * 4952  * BaseMethod is calling ...       
+INFO: 07-15 11:29:23: base_methods.py:98 * 4952 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 11:29:28: base_methods.py:172 * 4952 The element '<appium.webdriver.webelement.WebElement (session="2cc86c74-daeb-4cfc-b4c5-99e032db6af0", element="1")>' was clicked
+INFO: 07-15 11:29:32: base_methods.py:115 * 4952 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text="立即体验"]
+INFO: 07-15 11:29:34: base_methods.py:172 * 4952 The element '<appium.webdriver.webelement.WebElement (session="2cc86c74-daeb-4cfc-b4c5-99e032db6af0", element="2")>' was clicked
+INFO: 07-15 11:29:35: base_methods.py:115 * 4952 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 11:29:38: base_methods.py:172 * 4952 The element '<appium.webdriver.webelement.WebElement (session="2cc86c74-daeb-4cfc-b4c5-99e032db6af0", element="3")>' was clicked
+INFO: 07-15 11:29:39: base_methods.py:115 * 4952 Had find the element '登录' successful by xpath value: //android.widget.TextView[@text="登录"]
+INFO: 07-15 11:29:41: base_methods.py:172 * 4952 The element '<appium.webdriver.webelement.WebElement (session="2cc86c74-daeb-4cfc-b4c5-99e032db6af0", element="4")>' was clicked
+INFO: 07-15 11:29:43: base_methods.py:115 * 4952 Had find the element '请输入您的手机号或用户名' successful by xpath value: //android.widget.EditText[@text="请输入您的手机号或用户名"]
+INFO: 07-15 11:29:49: base_methods.py:143 * 4952 Had type 'lxx345' in inputbox
+INFO: 07-15 11:29:50: base_methods.py:115 * 4952 Had find the element '请输入登录密码' successful by xpath value: //android.widget.EditText[@text="请输入登录密码"]
+INFO: 07-15 11:29:56: base_methods.py:143 * 4952 Had type '123456xy' in inputbox
+INFO: 07-15 11:30:37: base_methods.py:26 * 17392  * BaseMethod is calling ...       
+INFO: 07-15 11:30:43: base_methods.py:98 * 17392 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 11:30:47: base_methods.py:172 * 17392 The element '<appium.webdriver.webelement.WebElement (session="0f4a94ba-1ff2-469c-929f-12a6be28028e", element="1")>' was clicked
+INFO: 07-15 11:30:52: base_methods.py:115 * 17392 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text="立即体验"]
+INFO: 07-15 11:30:54: base_methods.py:172 * 17392 The element '<appium.webdriver.webelement.WebElement (session="0f4a94ba-1ff2-469c-929f-12a6be28028e", element="2")>' was clicked
+INFO: 07-15 11:30:55: base_methods.py:115 * 17392 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 11:30:57: base_methods.py:172 * 17392 The element '<appium.webdriver.webelement.WebElement (session="0f4a94ba-1ff2-469c-929f-12a6be28028e", element="3")>' was clicked
+INFO: 07-15 11:30:58: base_methods.py:115 * 17392 Had find the element '登录' successful by xpath value: //android.widget.TextView[@text="登录"]
+INFO: 07-15 11:31:01: base_methods.py:172 * 17392 The element '<appium.webdriver.webelement.WebElement (session="0f4a94ba-1ff2-469c-929f-12a6be28028e", element="4")>' was clicked
+INFO: 07-15 11:31:02: base_methods.py:115 * 17392 Had find the element '请输入您的手机号或用户名' successful by xpath value: //android.widget.EditText[@text="请输入您的手机号或用户名"]
+INFO: 07-15 11:31:08: base_methods.py:143 * 17392 Had type 'lxx345' in inputbox
+INFO: 07-15 11:31:10: base_methods.py:115 * 17392 Had find the element '请输入登录密码' successful by xpath value: //android.widget.EditText[@text="请输入登录密码"]
+INFO: 07-15 11:31:17: base_methods.py:143 * 17392 Had type '123456xy' in inputbox
+INFO: 07-15 11:38:01: base_methods.py:26 * 14308  * BaseMethod is calling ...       
+INFO: 07-15 11:38:07: base_methods.py:98 * 14308 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 11:38:11: base_methods.py:172 * 14308 The element '<appium.webdriver.webelement.WebElement (session="744cec95-fcce-4bdc-8536-d3698e19880c", element="1")>' was clicked
+INFO: 07-15 11:38:16: base_methods.py:115 * 14308 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text="立即体验"]
+INFO: 07-15 11:38:18: base_methods.py:172 * 14308 The element '<appium.webdriver.webelement.WebElement (session="744cec95-fcce-4bdc-8536-d3698e19880c", element="2")>' was clicked
+INFO: 07-15 11:38:19: base_methods.py:115 * 14308 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 11:38:21: base_methods.py:172 * 14308 The element '<appium.webdriver.webelement.WebElement (session="744cec95-fcce-4bdc-8536-d3698e19880c", element="3")>' was clicked
+INFO: 07-15 11:38:22: base_methods.py:115 * 14308 Had find the element '登录' successful by xpath value: //android.widget.TextView[@text="登录"]
+INFO: 07-15 11:38:25: base_methods.py:172 * 14308 The element '<appium.webdriver.webelement.WebElement (session="744cec95-fcce-4bdc-8536-d3698e19880c", element="4")>' was clicked
+INFO: 07-15 11:38:26: base_methods.py:115 * 14308 Had find the element '请输入您的手机号或用户名' successful by xpath value: //android.widget.EditText[@text="请输入您的手机号或用户名"]
+INFO: 07-15 11:38:33: base_methods.py:143 * 14308 Had type 'lxx345' in inputbox
+INFO: 07-15 11:38:34: base_methods.py:115 * 14308 Had find the element '请输入登录密码' successful by xpath value: //android.widget.EditText[@text="请输入登录密码"]
+INFO: 07-15 11:38:41: base_methods.py:143 * 14308 Had type '123456xy' in inputbox
+INFO: 07-15 11:39:49: base_methods.py:26 * 10124  * BaseMethod is calling ...       
+INFO: 07-15 11:41:04: base_methods.py:26 * 12728  * BaseMethod is calling ...       
+INFO: 07-15 11:41:47: base_methods.py:26 * 2320  * BaseMethod is calling ...       
+INFO: 07-15 11:41:53: base_methods.py:98 * 2320 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 11:41:58: base_methods.py:172 * 2320 The element '<appium.webdriver.webelement.WebElement (session="65426eed-6243-4f66-9c2f-4397823d090a", element="1")>' was clicked
+INFO: 07-15 11:42:02: base_methods.py:115 * 2320 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text="立即体验"]
+INFO: 07-15 11:42:04: base_methods.py:172 * 2320 The element '<appium.webdriver.webelement.WebElement (session="65426eed-6243-4f66-9c2f-4397823d090a", element="2")>' was clicked
+INFO: 07-15 11:42:06: base_methods.py:115 * 2320 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 11:42:08: base_methods.py:172 * 2320 The element '<appium.webdriver.webelement.WebElement (session="65426eed-6243-4f66-9c2f-4397823d090a", element="3")>' was clicked
+INFO: 07-15 11:42:09: base_methods.py:115 * 2320 Had find the element '登录' successful by xpath value: //android.widget.TextView[@text="登录"]
+INFO: 07-15 11:42:11: base_methods.py:172 * 2320 The element '<appium.webdriver.webelement.WebElement (session="65426eed-6243-4f66-9c2f-4397823d090a", element="4")>' was clicked
+INFO: 07-15 11:42:13: base_methods.py:115 * 2320 Had find the element '请输入您的手机号或用户名' successful by xpath value: //android.widget.EditText[@text="请输入您的手机号或用户名"]
+INFO: 07-15 11:42:19: base_methods.py:143 * 2320 Had type 'lxx345' in inputbox
+INFO: 07-15 11:42:20: base_methods.py:115 * 2320 Had find the element '请输入登录密码' successful by xpath value: //android.widget.EditText[@text="请输入登录密码"]
+INFO: 07-15 11:42:26: base_methods.py:143 * 2320 Had type '123456xy' in inputbox
+INFO: 07-15 12:00:30: base_methods.py:26 * 7856  * BaseMethod is calling ...       
+INFO: 07-15 12:00:36: base_methods.py:98 * 7856 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 12:00:41: base_methods.py:172 * 7856 The element '<appium.webdriver.webelement.WebElement (session="20e03dc5-7f1e-4f4f-add8-a9d0391f7b20", element="1")>' was clicked
+INFO: 07-15 12:00:45: base_methods.py:115 * 7856 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text="立即体验"]
+INFO: 07-15 12:00:48: base_methods.py:172 * 7856 The element '<appium.webdriver.webelement.WebElement (session="20e03dc5-7f1e-4f4f-add8-a9d0391f7b20", element="2")>' was clicked
+INFO: 07-15 12:00:48: base_methods.py:115 * 7856 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 12:00:51: base_methods.py:172 * 7856 The element '<appium.webdriver.webelement.WebElement (session="20e03dc5-7f1e-4f4f-add8-a9d0391f7b20", element="3")>' was clicked
+INFO: 07-15 12:00:52: base_methods.py:115 * 7856 Had find the element '登录' successful by xpath value: //android.widget.TextView[@text="登录"]
+INFO: 07-15 12:00:54: base_methods.py:172 * 7856 The element '<appium.webdriver.webelement.WebElement (session="20e03dc5-7f1e-4f4f-add8-a9d0391f7b20", element="4")>' was clicked
+INFO: 07-15 12:00:55: base_methods.py:115 * 7856 Had find the element '请输入您的手机号或用户名' successful by xpath value: //android.widget.EditText[@text="请输入您的手机号或用户名"]
+INFO: 07-15 12:01:05: base_methods.py:143 * 7856 Had type 'lxx345' in inputbox
+INFO: 07-15 12:01:06: base_methods.py:115 * 7856 Had find the element '请输入登录密码' successful by xpath value: //android.widget.EditText[@text="请输入登录密码"]
+INFO: 07-15 12:01:13: base_methods.py:143 * 7856 Had type '123456xy' in inputbox
+INFO: 07-15 12:32:39: base_methods.py:26 * 13104  * BaseMethod is calling ...       
+INFO: 07-15 12:32:45: base_methods.py:98 * 13104 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 12:32:49: base_methods.py:172 * 13104 The element '<appium.webdriver.webelement.WebElement (session="294828bd-bb53-477f-8332-bb8776b90a6d", element="1")>' was clicked
+INFO: 07-15 12:32:54: base_methods.py:115 * 13104 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text="立即体验"]
+INFO: 07-15 12:32:56: base_methods.py:172 * 13104 The element '<appium.webdriver.webelement.WebElement (session="294828bd-bb53-477f-8332-bb8776b90a6d", element="2")>' was clicked
+INFO: 07-15 12:32:57: base_methods.py:115 * 13104 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 12:33:00: base_methods.py:172 * 13104 The element '<appium.webdriver.webelement.WebElement (session="294828bd-bb53-477f-8332-bb8776b90a6d", element="3")>' was clicked
+INFO: 07-15 12:33:01: base_methods.py:115 * 13104 Had find the element '登录' successful by xpath value: //android.widget.TextView[@text="登录"]
+INFO: 07-15 12:33:03: base_methods.py:172 * 13104 The element '<appium.webdriver.webelement.WebElement (session="294828bd-bb53-477f-8332-bb8776b90a6d", element="4")>' was clicked
+INFO: 07-15 12:33:04: base_methods.py:115 * 13104 Had find the element '请输入您的手机号或用户名' successful by xpath value: //android.widget.EditText[@text="请输入您的手机号或用户名"]
+INFO: 07-15 12:33:11: base_methods.py:143 * 13104 Had type 'lxx345' in inputbox
+INFO: 07-15 12:33:12: base_methods.py:115 * 13104 Had find the element '请输入登录密码' successful by xpath value: //android.widget.EditText[@text="请输入登录密码"]
+INFO: 07-15 12:33:18: base_methods.py:143 * 13104 Had type '123456xy' in inputbox
+INFO: 07-15 12:35:49: base_methods.py:26 * 11816  * BaseMethod is calling ...       
+INFO: 07-15 12:35:55: base_methods.py:98 * 11816 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 12:36:00: base_methods.py:172 * 11816 The element '<appium.webdriver.webelement.WebElement (session="e4a803f4-7b87-4dda-8b7b-5d8e098cee93", element="1")>' was clicked
+INFO: 07-15 12:36:04: base_methods.py:115 * 11816 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text="立即体验"]
+INFO: 07-15 12:36:06: base_methods.py:172 * 11816 The element '<appium.webdriver.webelement.WebElement (session="e4a803f4-7b87-4dda-8b7b-5d8e098cee93", element="2")>' was clicked
+INFO: 07-15 12:36:45: base_methods.py:26 * 4844  * BaseMethod is calling ...       
+INFO: 07-15 12:36:51: base_methods.py:98 * 4844 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 12:36:55: base_methods.py:172 * 4844 The element '<appium.webdriver.webelement.WebElement (session="7a4054e0-eb74-4240-b378-2c896841d87c", element="1")>' was clicked
+INFO: 07-15 12:37:00: base_methods.py:115 * 4844 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text="立即体验"]
+INFO: 07-15 12:37:02: base_methods.py:172 * 4844 The element '<appium.webdriver.webelement.WebElement (session="7a4054e0-eb74-4240-b378-2c896841d87c", element="2")>' was clicked
+INFO: 07-15 12:37:03: base_methods.py:115 * 4844 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 12:37:05: base_methods.py:172 * 4844 The element '<appium.webdriver.webelement.WebElement (session="7a4054e0-eb74-4240-b378-2c896841d87c", element="3")>' was clicked
+INFO: 07-15 12:37:06: base_methods.py:115 * 4844 Had find the element '登录' successful by xpath value: //android.widget.TextView[@text="登录"]
+INFO: 07-15 12:37:09: base_methods.py:172 * 4844 The element '<appium.webdriver.webelement.WebElement (session="7a4054e0-eb74-4240-b378-2c896841d87c", element="4")>' was clicked
+INFO: 07-15 12:37:10: base_methods.py:115 * 4844 Had find the element '请输入您的手机号或用户名' successful by xpath value: //android.widget.EditText[@text="请输入您的手机号或用户名"]
+INFO: 07-15 12:37:17: base_methods.py:143 * 4844 Had type 'lxx345' in inputbox
+INFO: 07-15 12:37:18: base_methods.py:115 * 4844 Had find the element '请输入登录密码' successful by xpath value: //android.widget.EditText[@text="请输入登录密码"]
+INFO: 07-15 12:37:25: base_methods.py:143 * 4844 Had type '123456xy' in inputbox
+INFO: 07-15 12:42:21: base_methods.py:26 * 13940  * BaseMethod is calling ...       
+INFO: 07-15 12:42:27: base_methods.py:98 * 13940 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 12:42:32: base_methods.py:172 * 13940 The element '<appium.webdriver.webelement.WebElement (session="44197a7c-6cbe-4f28-89d0-f8e860590a13", element="1")>' was clicked
+INFO: 07-15 12:42:36: base_methods.py:115 * 13940 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text="立即体验"]
+INFO: 07-15 12:42:39: base_methods.py:172 * 13940 The element '<appium.webdriver.webelement.WebElement (session="44197a7c-6cbe-4f28-89d0-f8e860590a13", element="2")>' was clicked
+INFO: 07-15 12:43:07: base_methods.py:26 * 8080  * BaseMethod is calling ...       
+INFO: 07-15 12:43:14: base_methods.py:98 * 8080 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 12:43:18: base_methods.py:172 * 8080 The element '<appium.webdriver.webelement.WebElement (session="02f0c4ea-be6b-4ae3-92bf-a845b6e6a20c", element="1")>' was clicked
+INFO: 07-15 12:43:23: base_methods.py:115 * 8080 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text="立即体验"]
+INFO: 07-15 12:43:25: base_methods.py:172 * 8080 The element '<appium.webdriver.webelement.WebElement (session="02f0c4ea-be6b-4ae3-92bf-a845b6e6a20c", element="2")>' was clicked
+INFO: 07-15 12:43:26: base_methods.py:115 * 8080 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 12:43:28: base_methods.py:172 * 8080 The element '<appium.webdriver.webelement.WebElement (session="02f0c4ea-be6b-4ae3-92bf-a845b6e6a20c", element="3")>' was clicked
+INFO: 07-15 12:43:29: base_methods.py:115 * 8080 Had find the element '登录' successful by xpath value: //android.widget.TextView[@text="登录"]
+INFO: 07-15 12:43:32: base_methods.py:172 * 8080 The element '<appium.webdriver.webelement.WebElement (session="02f0c4ea-be6b-4ae3-92bf-a845b6e6a20c", element="4")>' was clicked
+INFO: 07-15 12:43:33: base_methods.py:115 * 8080 Had find the element '请输入您的手机号或用户名' successful by xpath value: //android.widget.EditText[@text="请输入您的手机号或用户名"]
+INFO: 07-15 12:43:42: base_methods.py:143 * 8080 Had type 'lxx345' in inputbox
+INFO: 07-15 12:43:44: base_methods.py:115 * 8080 Had find the element '请输入登录密码' successful by xpath value: //android.widget.EditText[@text="请输入登录密码"]
+INFO: 07-15 12:43:50: base_methods.py:143 * 8080 Had type '123456xy' in inputbox
+INFO: 07-15 12:43:52: base_methods.py:201 * 8080 隐藏键盘
+INFO: 07-15 12:43:53: base_methods.py:115 * 8080 Had find the element '登录' successful by xpath value: //android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[3]/android.widget.TextView[1]
+INFO: 07-15 12:43:56: base_methods.py:172 * 8080 The element '<appium.webdriver.webelement.WebElement (session="02f0c4ea-be6b-4ae3-92bf-a845b6e6a20c", element="7")>' was clicked
+INFO: 07-15 15:01:06: base_methods.py:26 * 11236  * BaseMethod is calling ...       
+INFO: 07-15 15:01:12: base_methods.py:115 * 11236 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 15:01:15: base_methods.py:220 * 11236 Sleep for 1 seconds
+INFO: 07-15 15:01:15: base_methods.py:207 * 11236 The element '<appium.webdriver.webelement.WebElement (session="a7b49c9f-e1b8-4539-becd-80ed84cc391c", element="1")>' was clicked
+INFO: 07-15 15:01:20: base_methods.py:122 * 11236 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text="立即体验"]
+INFO: 07-15 15:01:21: base_methods.py:220 * 11236 Sleep for 1 seconds
+INFO: 07-15 15:01:21: base_methods.py:207 * 11236 The element '<appium.webdriver.webelement.WebElement (session="a7b49c9f-e1b8-4539-becd-80ed84cc391c", element="2")>' was clicked
+INFO: 07-15 15:01:21: base_methods.py:122 * 11236 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 15:01:23: base_methods.py:220 * 11236 Sleep for 1 seconds
+INFO: 07-15 15:01:23: base_methods.py:207 * 11236 The element '<appium.webdriver.webelement.WebElement (session="a7b49c9f-e1b8-4539-becd-80ed84cc391c", element="3")>' was clicked
+INFO: 07-15 15:01:23: base_methods.py:122 * 11236 Had find the element '登录' successful by xpath value: //android.widget.TextView[@text="登录"]
+INFO: 07-15 15:01:24: base_methods.py:220 * 11236 Sleep for 1 seconds
+INFO: 07-15 15:01:24: base_methods.py:207 * 11236 The element '<appium.webdriver.webelement.WebElement (session="a7b49c9f-e1b8-4539-becd-80ed84cc391c", element="4")>' was clicked
+INFO: 07-15 15:01:25: base_methods.py:122 * 11236 Had find the element '请输入您的手机号或用户名' successful by xpath value: //android.widget.EditText[@text="请输入您的手机号或用户名"]
+INFO: 07-15 15:01:35: base_methods.py:220 * 11236 Sleep for 1 seconds
+INFO: 07-15 15:01:35: base_methods.py:149 * 11236 Had type 'lxx345' in inputbox
+INFO: 07-15 15:01:36: base_methods.py:122 * 11236 Had find the element '请输入登录密码' successful by xpath value: //android.widget.EditText[@text="请输入登录密码"]
+INFO: 07-15 15:01:43: base_methods.py:220 * 11236 Sleep for 1 seconds
+INFO: 07-15 15:01:43: base_methods.py:149 * 11236 Had type '123456xy' in inputbox
+INFO: 07-15 15:01:45: base_methods.py:228 * 11236 隐藏键盘
+INFO: 07-15 15:01:46: base_methods.py:122 * 11236 Had find the element '登录' successful by xpath value: //android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[3]/android.widget.TextView[1]
+INFO: 07-15 15:01:47: base_methods.py:220 * 11236 Sleep for 1 seconds
+INFO: 07-15 15:01:47: base_methods.py:207 * 11236 The element '<appium.webdriver.webelement.WebElement (session="a7b49c9f-e1b8-4539-becd-80ed84cc391c", element="7")>' was clicked
+INFO: 07-15 15:01:49: base_methods.py:122 * 11236 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 15:01:49: base_methods.py:239 * 11236 The element was displayed
+INFO: 07-15 15:01:50: base_methods.py:122 * 11236 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 15:01:54: base_methods.py:220 * 11236 Sleep for 1 seconds
+INFO: 07-15 15:01:54: base_methods.py:207 * 11236 The element '<appium.webdriver.webelement.WebElement (session="a7b49c9f-e1b8-4539-becd-80ed84cc391c", element="9")>' was clicked
+INFO: 07-15 15:01:55: base_methods.py:220 * 11236 Sleep for 1 seconds
+INFO: 07-15 15:01:55: base_methods.py:207 * 11236 The element '<appium.webdriver.webelement.WebElement (session="a7b49c9f-e1b8-4539-becd-80ed84cc391c", element="11")>' was clicked
+INFO: 07-15 15:01:56: base_methods.py:122 * 11236 Had find the element '退出登录' successful by xpath value: //android.widget.TextView[@text='退出登录']
+INFO: 07-15 15:01:57: base_methods.py:220 * 11236 Sleep for 1 seconds
+INFO: 07-15 15:01:57: base_methods.py:207 * 11236 The element '<appium.webdriver.webelement.WebElement (session="a7b49c9f-e1b8-4539-becd-80ed84cc391c", element="12")>' was clicked
+INFO: 07-15 15:01:57: base_methods.py:122 * 11236 Had find the element '退出' successful by xpath value: //android.widget.TextView[@text='退出']
+INFO: 07-15 15:01:58: base_methods.py:220 * 11236 Sleep for 1 seconds
+INFO: 07-15 15:01:58: base_methods.py:207 * 11236 The element '<appium.webdriver.webelement.WebElement (session="a7b49c9f-e1b8-4539-becd-80ed84cc391c", element="13")>' was clicked
+INFO: 07-15 15:02:09: base_methods.py:58 * 11236 APP关闭
+INFO: 07-15 15:06:02: base_methods.py:26 * 3836  * BaseMethod is calling ...       
+INFO: 07-15 15:06:08: base_methods.py:115 * 3836 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 15:06:11: base_methods.py:220 * 3836 Sleep for 1 seconds
+INFO: 07-15 15:06:11: base_methods.py:207 * 3836 The element '<appium.webdriver.webelement.WebElement (session="a6bba783-068b-4834-832b-8deac8ab96ff", element="1")>' was clicked
+INFO: 07-15 15:06:16: base_methods.py:122 * 3836 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text="立即体验"]
+INFO: 07-15 15:06:17: base_methods.py:220 * 3836 Sleep for 1 seconds
+INFO: 07-15 15:06:17: base_methods.py:207 * 3836 The element '<appium.webdriver.webelement.WebElement (session="a6bba783-068b-4834-832b-8deac8ab96ff", element="2")>' was clicked
+INFO: 07-15 15:06:17: base_methods.py:122 * 3836 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 15:06:18: base_methods.py:220 * 3836 Sleep for 1 seconds
+INFO: 07-15 15:06:18: base_methods.py:207 * 3836 The element '<appium.webdriver.webelement.WebElement (session="a6bba783-068b-4834-832b-8deac8ab96ff", element="3")>' was clicked
+INFO: 07-15 15:06:18: base_methods.py:122 * 3836 Had find the element '登录' successful by xpath value: //android.widget.TextView[@text="登录"]
+INFO: 07-15 15:06:19: base_methods.py:220 * 3836 Sleep for 1 seconds
+INFO: 07-15 15:06:19: base_methods.py:207 * 3836 The element '<appium.webdriver.webelement.WebElement (session="a6bba783-068b-4834-832b-8deac8ab96ff", element="4")>' was clicked
+INFO: 07-15 15:06:21: base_methods.py:122 * 3836 Had find the element '请输入您的手机号或用户名' successful by xpath value: //android.widget.EditText[@text="请输入您的手机号或用户名"]
+INFO: 07-15 15:06:31: base_methods.py:220 * 3836 Sleep for 1 seconds
+INFO: 07-15 15:06:31: base_methods.py:149 * 3836 Had type 'lxx345' in inputbox
+INFO: 07-15 15:06:32: base_methods.py:122 * 3836 Had find the element '请输入登录密码' successful by xpath value: //android.widget.EditText[@text="请输入登录密码"]
+INFO: 07-15 15:06:39: base_methods.py:220 * 3836 Sleep for 1 seconds
+INFO: 07-15 15:06:39: base_methods.py:149 * 3836 Had type '123456xy' in inputbox
+INFO: 07-15 15:06:41: base_methods.py:228 * 3836 隐藏键盘
+INFO: 07-15 15:06:42: base_methods.py:122 * 3836 Had find the element '登录' successful by xpath value: //android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[3]/android.widget.TextView[1]
+INFO: 07-15 15:06:43: base_methods.py:220 * 3836 Sleep for 1 seconds
+INFO: 07-15 15:06:43: base_methods.py:207 * 3836 The element '<appium.webdriver.webelement.WebElement (session="a6bba783-068b-4834-832b-8deac8ab96ff", element="7")>' was clicked
+INFO: 07-15 15:06:45: base_methods.py:122 * 3836 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 15:06:45: base_methods.py:239 * 3836 The element was displayed
+INFO: 07-15 15:06:46: base_methods.py:122 * 3836 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 15:06:50: base_methods.py:220 * 3836 Sleep for 1 seconds
+INFO: 07-15 15:06:50: base_methods.py:207 * 3836 The element '<appium.webdriver.webelement.WebElement (session="a6bba783-068b-4834-832b-8deac8ab96ff", element="9")>' was clicked
+INFO: 07-15 15:06:51: base_methods.py:220 * 3836 Sleep for 1 seconds
+INFO: 07-15 15:06:51: base_methods.py:207 * 3836 The element '<appium.webdriver.webelement.WebElement (session="a6bba783-068b-4834-832b-8deac8ab96ff", element="11")>' was clicked
+INFO: 07-15 15:06:51: base_methods.py:122 * 3836 Had find the element '退出登录' successful by xpath value: //android.widget.TextView[@text='退出登录']
+INFO: 07-15 15:06:53: base_methods.py:220 * 3836 Sleep for 1 seconds
+INFO: 07-15 15:06:53: base_methods.py:207 * 3836 The element '<appium.webdriver.webelement.WebElement (session="a6bba783-068b-4834-832b-8deac8ab96ff", element="12")>' was clicked
+INFO: 07-15 15:06:53: base_methods.py:122 * 3836 Had find the element '退出' successful by xpath value: //android.widget.TextView[@text='退出']
+INFO: 07-15 15:06:54: base_methods.py:220 * 3836 Sleep for 1 seconds
+INFO: 07-15 15:06:54: base_methods.py:207 * 3836 The element '<appium.webdriver.webelement.WebElement (session="a6bba783-068b-4834-832b-8deac8ab96ff", element="13")>' was clicked
+INFO: 07-15 15:07:05: base_methods.py:58 * 3836 APP关闭
+INFO: 07-15 15:12:27: base_methods.py:26 * 13020  * BaseMethod is calling ...       
+INFO: 07-15 15:12:33: base_methods.py:115 * 13020 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 15:12:36: base_methods.py:220 * 13020 Sleep for 1 seconds
+INFO: 07-15 15:12:36: base_methods.py:207 * 13020 The element '<appium.webdriver.webelement.WebElement (session="92fa4d99-9d5f-476f-9517-52c8e8ba1a71", element="1")>' was clicked
+INFO: 07-15 15:12:41: base_methods.py:122 * 13020 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text="立即体验"]
+INFO: 07-15 15:12:42: base_methods.py:220 * 13020 Sleep for 1 seconds
+INFO: 07-15 15:12:42: base_methods.py:207 * 13020 The element '<appium.webdriver.webelement.WebElement (session="92fa4d99-9d5f-476f-9517-52c8e8ba1a71", element="2")>' was clicked
+INFO: 07-15 15:12:42: base_methods.py:122 * 13020 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 15:12:44: base_methods.py:220 * 13020 Sleep for 1 seconds
+INFO: 07-15 15:12:44: base_methods.py:207 * 13020 The element '<appium.webdriver.webelement.WebElement (session="92fa4d99-9d5f-476f-9517-52c8e8ba1a71", element="3")>' was clicked
+INFO: 07-15 15:12:44: base_methods.py:122 * 13020 Had find the element '登录' successful by xpath value: //android.widget.TextView[@text="登录"]
+INFO: 07-15 15:12:45: base_methods.py:220 * 13020 Sleep for 1 seconds
+INFO: 07-15 15:12:45: base_methods.py:207 * 13020 The element '<appium.webdriver.webelement.WebElement (session="92fa4d99-9d5f-476f-9517-52c8e8ba1a71", element="4")>' was clicked
+INFO: 07-15 15:12:46: base_methods.py:122 * 13020 Had find the element '请输入您的手机号或用户名' successful by xpath value: //android.widget.EditText[@text="请输入您的手机号或用户名"]
+INFO: 07-15 15:12:56: base_methods.py:220 * 13020 Sleep for 1 seconds
+INFO: 07-15 15:12:56: base_methods.py:149 * 13020 Had type 'lxx345' in inputbox
+INFO: 07-15 15:12:57: base_methods.py:122 * 13020 Had find the element '请输入登录密码' successful by xpath value: //android.widget.EditText[@text="请输入登录密码"]
+INFO: 07-15 15:13:05: base_methods.py:220 * 13020 Sleep for 1 seconds
+INFO: 07-15 15:13:05: base_methods.py:149 * 13020 Had type '123456xy' in inputbox
+INFO: 07-15 15:13:07: base_methods.py:228 * 13020 隐藏键盘
+INFO: 07-15 15:13:09: base_methods.py:122 * 13020 Had find the element '登录' successful by xpath value: //android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[3]/android.widget.TextView[1]
+INFO: 07-15 15:13:10: base_methods.py:220 * 13020 Sleep for 1 seconds
+INFO: 07-15 15:13:10: base_methods.py:207 * 13020 The element '<appium.webdriver.webelement.WebElement (session="92fa4d99-9d5f-476f-9517-52c8e8ba1a71", element="7")>' was clicked
+INFO: 07-15 15:13:12: base_methods.py:122 * 13020 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 15:13:12: base_methods.py:239 * 13020 The element was displayed
+INFO: 07-15 15:13:12: base_methods.py:122 * 13020 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 15:13:15: base_methods.py:220 * 13020 Sleep for 1 seconds
+INFO: 07-15 15:13:15: base_methods.py:207 * 13020 The element '<appium.webdriver.webelement.WebElement (session="92fa4d99-9d5f-476f-9517-52c8e8ba1a71", element="9")>' was clicked
+INFO: 07-15 15:29:45: base_methods.py:29 * 6784  * BaseMethod is calling ...       
+INFO: 07-15 15:29:51: base_methods.py:118 * 6784 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 15:29:54: base_methods.py:223 * 6784 Sleep for 1 seconds
+INFO: 07-15 15:29:54: base_methods.py:210 * 6784 The element '<appium.webdriver.webelement.WebElement (session="9de1e4f8-fb00-4409-8b1f-e58d8cb0b03c", element="1")>' was clicked
+INFO: 07-15 15:29:58: base_methods.py:125 * 6784 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text="立即体验"]
+INFO: 07-15 15:30:00: base_methods.py:223 * 6784 Sleep for 1 seconds
+INFO: 07-15 15:30:00: base_methods.py:210 * 6784 The element '<appium.webdriver.webelement.WebElement (session="9de1e4f8-fb00-4409-8b1f-e58d8cb0b03c", element="2")>' was clicked
+INFO: 07-15 15:30:00: base_methods.py:125 * 6784 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 15:30:01: base_methods.py:223 * 6784 Sleep for 1 seconds
+INFO: 07-15 15:30:01: base_methods.py:210 * 6784 The element '<appium.webdriver.webelement.WebElement (session="9de1e4f8-fb00-4409-8b1f-e58d8cb0b03c", element="3")>' was clicked
+INFO: 07-15 15:30:01: base_methods.py:125 * 6784 Had find the element '登录' successful by xpath value: //android.widget.TextView[@text="登录"]
+INFO: 07-15 15:30:02: base_methods.py:223 * 6784 Sleep for 1 seconds
+INFO: 07-15 15:30:02: base_methods.py:210 * 6784 The element '<appium.webdriver.webelement.WebElement (session="9de1e4f8-fb00-4409-8b1f-e58d8cb0b03c", element="4")>' was clicked
+INFO: 07-15 15:30:03: base_methods.py:125 * 6784 Had find the element '请输入您的手机号或用户名' successful by xpath value: //android.widget.EditText[@text="请输入您的手机号或用户名"]
+INFO: 07-15 15:30:13: base_methods.py:223 * 6784 Sleep for 1 seconds
+INFO: 07-15 15:30:13: base_methods.py:152 * 6784 Had type 'lxx345' in inputbox
+INFO: 07-15 15:30:15: base_methods.py:125 * 6784 Had find the element '请输入登录密码' successful by xpath value: //android.widget.EditText[@text="请输入登录密码"]
+INFO: 07-15 15:30:21: base_methods.py:223 * 6784 Sleep for 1 seconds
+INFO: 07-15 15:30:21: base_methods.py:152 * 6784 Had type '123456xy' in inputbox
+INFO: 07-15 15:30:24: base_methods.py:231 * 6784 隐藏键盘
+INFO: 07-15 15:30:25: base_methods.py:125 * 6784 Had find the element '登录' successful by xpath value: //android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[3]/android.widget.TextView[1]
+INFO: 07-15 15:30:26: base_methods.py:223 * 6784 Sleep for 1 seconds
+INFO: 07-15 15:30:26: base_methods.py:210 * 6784 The element '<appium.webdriver.webelement.WebElement (session="9de1e4f8-fb00-4409-8b1f-e58d8cb0b03c", element="7")>' was clicked
+INFO: 07-15 15:30:28: base_methods.py:125 * 6784 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 15:30:28: base_methods.py:242 * 6784 The element was displayed
+INFO: 07-15 15:30:28: base_methods.py:125 * 6784 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 15:30:32: base_methods.py:223 * 6784 Sleep for 1 seconds
+INFO: 07-15 15:30:32: base_methods.py:210 * 6784 The element '<appium.webdriver.webelement.WebElement (session="9de1e4f8-fb00-4409-8b1f-e58d8cb0b03c", element="9")>' was clicked
+INFO: 07-15 15:34:44: base_methods.py:27 * 8808  * BaseMethod is calling ...       
+INFO: 07-15 15:34:50: base_methods.py:116 * 8808 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 15:34:54: base_methods.py:221 * 8808 Sleep for 1 seconds
+INFO: 07-15 15:34:54: base_methods.py:208 * 8808 The element '<appium.webdriver.webelement.WebElement (session="39507509-e310-4507-a958-423d72fc068b", element="1")>' was clicked
+INFO: 07-15 15:34:58: base_methods.py:123 * 8808 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text="立即体验"]
+INFO: 07-15 15:35:00: base_methods.py:221 * 8808 Sleep for 1 seconds
+INFO: 07-15 15:35:00: base_methods.py:208 * 8808 The element '<appium.webdriver.webelement.WebElement (session="39507509-e310-4507-a958-423d72fc068b", element="2")>' was clicked
+INFO: 07-15 15:35:00: base_methods.py:123 * 8808 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 15:35:01: base_methods.py:221 * 8808 Sleep for 1 seconds
+INFO: 07-15 15:35:01: base_methods.py:208 * 8808 The element '<appium.webdriver.webelement.WebElement (session="39507509-e310-4507-a958-423d72fc068b", element="3")>' was clicked
+INFO: 07-15 15:35:01: base_methods.py:123 * 8808 Had find the element '登录' successful by xpath value: //android.widget.TextView[@text="登录"]
+INFO: 07-15 15:35:02: base_methods.py:221 * 8808 Sleep for 1 seconds
+INFO: 07-15 15:35:02: base_methods.py:208 * 8808 The element '<appium.webdriver.webelement.WebElement (session="39507509-e310-4507-a958-423d72fc068b", element="4")>' was clicked
+INFO: 07-15 15:35:03: base_methods.py:123 * 8808 Had find the element '请输入您的手机号或用户名' successful by xpath value: //android.widget.EditText[@text="请输入您的手机号或用户名"]
+INFO: 07-15 15:35:13: base_methods.py:221 * 8808 Sleep for 1 seconds
+INFO: 07-15 15:35:13: base_methods.py:150 * 8808 Had type 'lxx345' in inputbox
+INFO: 07-15 15:35:14: base_methods.py:123 * 8808 Had find the element '请输入登录密码' successful by xpath value: //android.widget.EditText[@text="请输入登录密码"]
+INFO: 07-15 15:35:22: base_methods.py:221 * 8808 Sleep for 1 seconds
+INFO: 07-15 15:35:22: base_methods.py:150 * 8808 Had type '123456xy' in inputbox
+INFO: 07-15 15:35:24: base_methods.py:229 * 8808 隐藏键盘
+INFO: 07-15 15:35:25: base_methods.py:123 * 8808 Had find the element '登录' successful by xpath value: //android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[3]/android.widget.TextView[1]
+INFO: 07-15 15:35:26: base_methods.py:221 * 8808 Sleep for 1 seconds
+INFO: 07-15 15:35:26: base_methods.py:208 * 8808 The element '<appium.webdriver.webelement.WebElement (session="39507509-e310-4507-a958-423d72fc068b", element="7")>' was clicked
+INFO: 07-15 15:35:28: base_methods.py:123 * 8808 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 15:35:28: base_methods.py:240 * 8808 The element was displayed
+INFO: 07-15 15:35:29: base_methods.py:123 * 8808 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 15:35:33: base_methods.py:221 * 8808 Sleep for 1 seconds
+INFO: 07-15 15:35:33: base_methods.py:208 * 8808 The element '<appium.webdriver.webelement.WebElement (session="39507509-e310-4507-a958-423d72fc068b", element="9")>' was clicked
+INFO: 07-15 15:43:04: base_methods.py:27 * 8520  * BaseMethod is calling ...       
+INFO: 07-15 15:43:10: base_methods.py:116 * 8520 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 15:43:14: base_methods.py:221 * 8520 Sleep for 1 seconds
+INFO: 07-15 15:43:14: base_methods.py:208 * 8520 The element '<appium.webdriver.webelement.WebElement (session="0644acdc-c817-417c-b074-3edc77d4e097", element="1")>' was clicked
+INFO: 07-15 15:43:18: base_methods.py:123 * 8520 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text="立即体验"]
+INFO: 07-15 15:43:20: base_methods.py:221 * 8520 Sleep for 1 seconds
+INFO: 07-15 15:43:20: base_methods.py:208 * 8520 The element '<appium.webdriver.webelement.WebElement (session="0644acdc-c817-417c-b074-3edc77d4e097", element="2")>' was clicked
+INFO: 07-15 15:43:20: base_methods.py:123 * 8520 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 15:43:21: base_methods.py:221 * 8520 Sleep for 1 seconds
+INFO: 07-15 15:43:21: base_methods.py:208 * 8520 The element '<appium.webdriver.webelement.WebElement (session="0644acdc-c817-417c-b074-3edc77d4e097", element="3")>' was clicked
+INFO: 07-15 15:43:21: base_methods.py:123 * 8520 Had find the element '登录' successful by xpath value: //android.widget.TextView[@text="登录"]
+INFO: 07-15 15:43:22: base_methods.py:221 * 8520 Sleep for 1 seconds
+INFO: 07-15 15:43:22: base_methods.py:208 * 8520 The element '<appium.webdriver.webelement.WebElement (session="0644acdc-c817-417c-b074-3edc77d4e097", element="4")>' was clicked
+INFO: 07-15 15:43:23: base_methods.py:123 * 8520 Had find the element '请输入您的手机号或用户名' successful by xpath value: //android.widget.EditText[@text="请输入您的手机号或用户名"]
+INFO: 07-15 15:43:33: base_methods.py:221 * 8520 Sleep for 1 seconds
+INFO: 07-15 15:43:33: base_methods.py:150 * 8520 Had type 'lxx345' in inputbox
+INFO: 07-15 15:43:35: base_methods.py:123 * 8520 Had find the element '请输入登录密码' successful by xpath value: //android.widget.EditText[@text="请输入登录密码"]
+INFO: 07-15 15:43:42: base_methods.py:221 * 8520 Sleep for 1 seconds
+INFO: 07-15 15:43:42: base_methods.py:150 * 8520 Had type '123456xy' in inputbox
+INFO: 07-15 15:43:44: base_methods.py:229 * 8520 隐藏键盘
+INFO: 07-15 15:43:45: base_methods.py:123 * 8520 Had find the element '登录' successful by xpath value: //android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[3]/android.widget.TextView[1]
+INFO: 07-15 15:43:46: base_methods.py:221 * 8520 Sleep for 1 seconds
+INFO: 07-15 15:43:46: base_methods.py:208 * 8520 The element '<appium.webdriver.webelement.WebElement (session="0644acdc-c817-417c-b074-3edc77d4e097", element="7")>' was clicked
+INFO: 07-15 15:43:48: base_methods.py:123 * 8520 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 15:43:48: base_methods.py:240 * 8520 The element was displayed
+INFO: 07-15 15:43:48: base_methods.py:123 * 8520 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 15:43:52: base_methods.py:221 * 8520 Sleep for 1 seconds
+INFO: 07-15 15:43:52: base_methods.py:208 * 8520 The element '<appium.webdriver.webelement.WebElement (session="0644acdc-c817-417c-b074-3edc77d4e097", element="9")>' was clicked
+INFO: 07-15 15:45:04: base_methods.py:27 * 16880  * BaseMethod is calling ...       
+INFO: 07-15 15:45:10: base_methods.py:116 * 16880 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 15:45:14: base_methods.py:221 * 16880 Sleep for 1 seconds
+INFO: 07-15 15:45:14: base_methods.py:208 * 16880 The element '<appium.webdriver.webelement.WebElement (session="ffef8cb3-48c1-4262-9d19-0c73e8039781", element="1")>' was clicked
+INFO: 07-15 15:45:18: base_methods.py:123 * 16880 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text="立即体验"]
+INFO: 07-15 15:45:20: base_methods.py:221 * 16880 Sleep for 1 seconds
+INFO: 07-15 15:45:20: base_methods.py:208 * 16880 The element '<appium.webdriver.webelement.WebElement (session="ffef8cb3-48c1-4262-9d19-0c73e8039781", element="2")>' was clicked
+INFO: 07-15 15:45:20: base_methods.py:123 * 16880 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 15:45:21: base_methods.py:221 * 16880 Sleep for 1 seconds
+INFO: 07-15 15:45:21: base_methods.py:208 * 16880 The element '<appium.webdriver.webelement.WebElement (session="ffef8cb3-48c1-4262-9d19-0c73e8039781", element="3")>' was clicked
+INFO: 07-15 15:45:21: base_methods.py:123 * 16880 Had find the element '登录' successful by xpath value: //android.widget.TextView[@text="登录"]
+INFO: 07-15 15:45:22: base_methods.py:221 * 16880 Sleep for 1 seconds
+INFO: 07-15 15:45:22: base_methods.py:208 * 16880 The element '<appium.webdriver.webelement.WebElement (session="ffef8cb3-48c1-4262-9d19-0c73e8039781", element="4")>' was clicked
+INFO: 07-15 15:45:23: base_methods.py:123 * 16880 Had find the element '请输入您的手机号或用户名' successful by xpath value: //android.widget.EditText[@text="请输入您的手机号或用户名"]
+INFO: 07-15 15:45:34: base_methods.py:221 * 16880 Sleep for 1 seconds
+INFO: 07-15 15:45:34: base_methods.py:150 * 16880 Had type 'lxx345' in inputbox
+INFO: 07-15 15:45:35: base_methods.py:123 * 16880 Had find the element '请输入登录密码' successful by xpath value: //android.widget.EditText[@text="请输入登录密码"]
+INFO: 07-15 15:45:43: base_methods.py:221 * 16880 Sleep for 1 seconds
+INFO: 07-15 15:45:43: base_methods.py:150 * 16880 Had type '123456xy' in inputbox
+INFO: 07-15 15:45:45: base_methods.py:229 * 16880 隐藏键盘
+INFO: 07-15 15:45:46: base_methods.py:123 * 16880 Had find the element '登录' successful by xpath value: //android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[3]/android.widget.TextView[1]
+INFO: 07-15 15:45:47: base_methods.py:221 * 16880 Sleep for 1 seconds
+INFO: 07-15 15:45:47: base_methods.py:208 * 16880 The element '<appium.webdriver.webelement.WebElement (session="ffef8cb3-48c1-4262-9d19-0c73e8039781", element="7")>' was clicked
+INFO: 07-15 15:45:49: base_methods.py:123 * 16880 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 15:45:49: base_methods.py:240 * 16880 The element was displayed
+INFO: 07-15 15:45:50: base_methods.py:123 * 16880 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 15:45:53: base_methods.py:221 * 16880 Sleep for 1 seconds
+INFO: 07-15 15:45:53: base_methods.py:208 * 16880 The element '<appium.webdriver.webelement.WebElement (session="ffef8cb3-48c1-4262-9d19-0c73e8039781", element="9")>' was clicked
+INFO: 07-15 15:47:22: base_methods.py:27 * 16864  * BaseMethod is calling ...       
+INFO: 07-15 15:47:28: base_methods.py:116 * 16864 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 15:47:31: base_methods.py:221 * 16864 Sleep for 1 seconds
+INFO: 07-15 15:47:31: base_methods.py:208 * 16864 The element '<appium.webdriver.webelement.WebElement (session="6d99a1fd-1964-4878-9c23-dd1ef4418690", element="1")>' was clicked
+INFO: 07-15 15:47:36: base_methods.py:123 * 16864 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text="立即体验"]
+INFO: 07-15 15:47:37: base_methods.py:221 * 16864 Sleep for 1 seconds
+INFO: 07-15 15:47:37: base_methods.py:208 * 16864 The element '<appium.webdriver.webelement.WebElement (session="6d99a1fd-1964-4878-9c23-dd1ef4418690", element="2")>' was clicked
+INFO: 07-15 15:47:37: base_methods.py:123 * 16864 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 15:47:38: base_methods.py:221 * 16864 Sleep for 1 seconds
+INFO: 07-15 15:47:38: base_methods.py:208 * 16864 The element '<appium.webdriver.webelement.WebElement (session="6d99a1fd-1964-4878-9c23-dd1ef4418690", element="3")>' was clicked
+INFO: 07-15 15:47:38: base_methods.py:123 * 16864 Had find the element '登录' successful by xpath value: //android.widget.TextView[@text="登录"]
+INFO: 07-15 15:47:39: base_methods.py:221 * 16864 Sleep for 1 seconds
+INFO: 07-15 15:47:39: base_methods.py:208 * 16864 The element '<appium.webdriver.webelement.WebElement (session="6d99a1fd-1964-4878-9c23-dd1ef4418690", element="4")>' was clicked
+INFO: 07-15 15:47:41: base_methods.py:123 * 16864 Had find the element '请输入您的手机号或用户名' successful by xpath value: //android.widget.EditText[@text="请输入您的手机号或用户名"]
+INFO: 07-15 15:47:51: base_methods.py:221 * 16864 Sleep for 1 seconds
+INFO: 07-15 15:47:51: base_methods.py:150 * 16864 Had type 'lxx345' in inputbox
+INFO: 07-15 15:47:52: base_methods.py:123 * 16864 Had find the element '请输入登录密码' successful by xpath value: //android.widget.EditText[@text="请输入登录密码"]
+INFO: 07-15 15:47:59: base_methods.py:221 * 16864 Sleep for 1 seconds
+INFO: 07-15 15:47:59: base_methods.py:150 * 16864 Had type '123456xy' in inputbox
+INFO: 07-15 15:48:01: base_methods.py:229 * 16864 隐藏键盘
+INFO: 07-15 15:48:02: base_methods.py:123 * 16864 Had find the element '登录' successful by xpath value: //android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[3]/android.widget.TextView[1]
+INFO: 07-15 15:48:03: base_methods.py:221 * 16864 Sleep for 1 seconds
+INFO: 07-15 15:48:03: base_methods.py:208 * 16864 The element '<appium.webdriver.webelement.WebElement (session="6d99a1fd-1964-4878-9c23-dd1ef4418690", element="7")>' was clicked
+INFO: 07-15 15:48:05: base_methods.py:123 * 16864 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 15:48:05: base_methods.py:240 * 16864 The element was displayed
+INFO: 07-15 15:48:05: base_methods.py:123 * 16864 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 15:48:09: base_methods.py:221 * 16864 Sleep for 1 seconds
+INFO: 07-15 15:48:09: base_methods.py:208 * 16864 The element '<appium.webdriver.webelement.WebElement (session="6d99a1fd-1964-4878-9c23-dd1ef4418690", element="9")>' was clicked
+INFO: 07-15 15:49:40: base_methods.py:27 * 7516  * BaseMethod is calling ...       
+INFO: 07-15 15:49:46: base_methods.py:116 * 7516 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 15:49:49: base_methods.py:221 * 7516 Sleep for 1 seconds
+INFO: 07-15 15:49:49: base_methods.py:208 * 7516 The element '<appium.webdriver.webelement.WebElement (session="faf8701e-2153-4007-a93d-50db4a323239", element="1")>' was clicked
+INFO: 07-15 15:49:54: base_methods.py:123 * 7516 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text="立即体验"]
+INFO: 07-15 15:49:55: base_methods.py:221 * 7516 Sleep for 1 seconds
+INFO: 07-15 15:49:55: base_methods.py:208 * 7516 The element '<appium.webdriver.webelement.WebElement (session="faf8701e-2153-4007-a93d-50db4a323239", element="2")>' was clicked
+INFO: 07-15 15:49:55: base_methods.py:123 * 7516 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 15:49:57: base_methods.py:221 * 7516 Sleep for 1 seconds
+INFO: 07-15 15:49:57: base_methods.py:208 * 7516 The element '<appium.webdriver.webelement.WebElement (session="faf8701e-2153-4007-a93d-50db4a323239", element="3")>' was clicked
+INFO: 07-15 15:49:57: base_methods.py:123 * 7516 Had find the element '登录' successful by xpath value: //android.widget.TextView[@text="登录"]
+INFO: 07-15 15:49:58: base_methods.py:221 * 7516 Sleep for 1 seconds
+INFO: 07-15 15:49:58: base_methods.py:208 * 7516 The element '<appium.webdriver.webelement.WebElement (session="faf8701e-2153-4007-a93d-50db4a323239", element="4")>' was clicked
+INFO: 07-15 15:49:59: base_methods.py:123 * 7516 Had find the element '请输入您的手机号或用户名' successful by xpath value: //android.widget.EditText[@text="请输入您的手机号或用户名"]
+INFO: 07-15 15:50:09: base_methods.py:221 * 7516 Sleep for 1 seconds
+INFO: 07-15 15:50:09: base_methods.py:150 * 7516 Had type 'lxx345' in inputbox
+INFO: 07-15 15:50:10: base_methods.py:123 * 7516 Had find the element '请输入登录密码' successful by xpath value: //android.widget.EditText[@text="请输入登录密码"]
+INFO: 07-15 15:50:17: base_methods.py:221 * 7516 Sleep for 1 seconds
+INFO: 07-15 15:50:17: base_methods.py:150 * 7516 Had type '123456xy' in inputbox
+INFO: 07-15 15:50:19: base_methods.py:229 * 7516 隐藏键盘
+INFO: 07-15 15:50:20: base_methods.py:123 * 7516 Had find the element '登录' successful by xpath value: //android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[3]/android.widget.TextView[1]
+INFO: 07-15 15:50:21: base_methods.py:221 * 7516 Sleep for 1 seconds
+INFO: 07-15 15:50:21: base_methods.py:208 * 7516 The element '<appium.webdriver.webelement.WebElement (session="faf8701e-2153-4007-a93d-50db4a323239", element="7")>' was clicked
+INFO: 07-15 15:50:24: base_methods.py:123 * 7516 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 15:50:24: base_methods.py:240 * 7516 The element was displayed
+INFO: 07-15 15:50:24: base_methods.py:123 * 7516 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 15:50:28: base_methods.py:221 * 7516 Sleep for 1 seconds
+INFO: 07-15 15:50:28: base_methods.py:208 * 7516 The element '<appium.webdriver.webelement.WebElement (session="faf8701e-2153-4007-a93d-50db4a323239", element="9")>' was clicked
+INFO: 07-15 15:51:10: base_methods.py:27 * 13004  * BaseMethod is calling ...       
+INFO: 07-15 15:51:16: base_methods.py:116 * 13004 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 15:51:19: base_methods.py:221 * 13004 Sleep for 1 seconds
+INFO: 07-15 15:51:19: base_methods.py:208 * 13004 The element '<appium.webdriver.webelement.WebElement (session="f57fddae-a265-40b3-ad9b-b1db2c263278", element="1")>' was clicked
+INFO: 07-15 15:51:24: base_methods.py:123 * 13004 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text="立即体验"]
+INFO: 07-15 15:51:25: base_methods.py:221 * 13004 Sleep for 1 seconds
+INFO: 07-15 15:51:25: base_methods.py:208 * 13004 The element '<appium.webdriver.webelement.WebElement (session="f57fddae-a265-40b3-ad9b-b1db2c263278", element="2")>' was clicked
+INFO: 07-15 15:51:25: base_methods.py:123 * 13004 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 15:51:26: base_methods.py:221 * 13004 Sleep for 1 seconds
+INFO: 07-15 15:51:26: base_methods.py:208 * 13004 The element '<appium.webdriver.webelement.WebElement (session="f57fddae-a265-40b3-ad9b-b1db2c263278", element="3")>' was clicked
+INFO: 07-15 15:51:27: base_methods.py:123 * 13004 Had find the element '登录' successful by xpath value: //android.widget.TextView[@text="登录"]
+INFO: 07-15 15:51:28: base_methods.py:221 * 13004 Sleep for 1 seconds
+INFO: 07-15 15:51:28: base_methods.py:208 * 13004 The element '<appium.webdriver.webelement.WebElement (session="f57fddae-a265-40b3-ad9b-b1db2c263278", element="4")>' was clicked
+INFO: 07-15 15:51:29: base_methods.py:123 * 13004 Had find the element '请输入您的手机号或用户名' successful by xpath value: //android.widget.EditText[@text="请输入您的手机号或用户名"]
+INFO: 07-15 15:51:39: base_methods.py:221 * 13004 Sleep for 1 seconds
+INFO: 07-15 15:51:39: base_methods.py:150 * 13004 Had type 'lxx345' in inputbox
+INFO: 07-15 15:51:40: base_methods.py:123 * 13004 Had find the element '请输入登录密码' successful by xpath value: //android.widget.EditText[@text="请输入登录密码"]
+INFO: 07-15 15:51:47: base_methods.py:221 * 13004 Sleep for 1 seconds
+INFO: 07-15 15:51:47: base_methods.py:150 * 13004 Had type '123456xy' in inputbox
+INFO: 07-15 15:51:49: base_methods.py:229 * 13004 隐藏键盘
+INFO: 07-15 15:51:50: base_methods.py:123 * 13004 Had find the element '登录' successful by xpath value: //android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[3]/android.widget.TextView[1]
+INFO: 07-15 15:51:51: base_methods.py:221 * 13004 Sleep for 1 seconds
+INFO: 07-15 15:51:51: base_methods.py:208 * 13004 The element '<appium.webdriver.webelement.WebElement (session="f57fddae-a265-40b3-ad9b-b1db2c263278", element="7")>' was clicked
+INFO: 07-15 15:51:53: base_methods.py:123 * 13004 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 15:51:53: base_methods.py:240 * 13004 The element was displayed
+INFO: 07-15 15:51:53: base_methods.py:123 * 13004 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 15:51:58: base_methods.py:221 * 13004 Sleep for 1 seconds
+INFO: 07-15 15:51:58: base_methods.py:208 * 13004 The element '<appium.webdriver.webelement.WebElement (session="f57fddae-a265-40b3-ad9b-b1db2c263278", element="9")>' was clicked
+INFO: 07-15 16:06:52: base_methods.py:27 * 17120  * BaseMethod is calling ...       
+INFO: 07-15 16:06:58: base_methods.py:116 * 17120 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 16:07:02: base_methods.py:221 * 17120 Sleep for 1 seconds
+INFO: 07-15 16:07:02: base_methods.py:208 * 17120 The element '<appium.webdriver.webelement.WebElement (session="33535451-bf68-4fd6-9346-c15b6970dd19", element="1")>' was clicked
+INFO: 07-15 16:07:06: base_methods.py:123 * 17120 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text="立即体验"]
+INFO: 07-15 16:07:08: base_methods.py:221 * 17120 Sleep for 1 seconds
+INFO: 07-15 16:07:08: base_methods.py:208 * 17120 The element '<appium.webdriver.webelement.WebElement (session="33535451-bf68-4fd6-9346-c15b6970dd19", element="2")>' was clicked
+INFO: 07-15 16:07:08: base_methods.py:123 * 17120 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 16:07:09: base_methods.py:221 * 17120 Sleep for 1 seconds
+INFO: 07-15 16:07:09: base_methods.py:208 * 17120 The element '<appium.webdriver.webelement.WebElement (session="33535451-bf68-4fd6-9346-c15b6970dd19", element="3")>' was clicked
+INFO: 07-15 16:07:09: base_methods.py:123 * 17120 Had find the element '登录' successful by xpath value: //android.widget.TextView[@text="登录"]
+INFO: 07-15 16:07:10: base_methods.py:221 * 17120 Sleep for 1 seconds
+INFO: 07-15 16:07:10: base_methods.py:208 * 17120 The element '<appium.webdriver.webelement.WebElement (session="33535451-bf68-4fd6-9346-c15b6970dd19", element="4")>' was clicked
+INFO: 07-15 16:07:11: base_methods.py:123 * 17120 Had find the element '请输入您的手机号或用户名' successful by xpath value: //android.widget.EditText[@text="请输入您的手机号或用户名"]
+INFO: 07-15 16:07:21: base_methods.py:221 * 17120 Sleep for 1 seconds
+INFO: 07-15 16:07:21: base_methods.py:150 * 17120 Had type 'lxx345' in inputbox
+INFO: 07-15 16:07:22: base_methods.py:123 * 17120 Had find the element '请输入登录密码' successful by xpath value: //android.widget.EditText[@text="请输入登录密码"]
+INFO: 07-15 16:07:29: base_methods.py:221 * 17120 Sleep for 1 seconds
+INFO: 07-15 16:07:29: base_methods.py:150 * 17120 Had type '123456xy' in inputbox
+INFO: 07-15 16:07:31: base_methods.py:229 * 17120 隐藏键盘
+INFO: 07-15 16:07:32: base_methods.py:123 * 17120 Had find the element '登录' successful by xpath value: //android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[3]/android.widget.TextView[1]
+INFO: 07-15 16:07:34: base_methods.py:221 * 17120 Sleep for 1 seconds
+INFO: 07-15 16:07:34: base_methods.py:208 * 17120 The element '<appium.webdriver.webelement.WebElement (session="33535451-bf68-4fd6-9346-c15b6970dd19", element="7")>' was clicked
+INFO: 07-15 16:07:36: base_methods.py:123 * 17120 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 16:07:36: base_methods.py:240 * 17120 The element was displayed
+INFO: 07-15 16:07:36: base_methods.py:123 * 17120 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 16:07:40: base_methods.py:221 * 17120 Sleep for 1 seconds
+INFO: 07-15 16:07:40: base_methods.py:208 * 17120 The element '<appium.webdriver.webelement.WebElement (session="33535451-bf68-4fd6-9346-c15b6970dd19", element="9")>' was clicked
+INFO: 07-15 16:08:09: base_methods.py:27 * 15956  * BaseMethod is calling ...       
+INFO: 07-15 16:08:15: base_methods.py:116 * 15956 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 16:08:19: base_methods.py:221 * 15956 Sleep for 1 seconds
+INFO: 07-15 16:08:19: base_methods.py:208 * 15956 The element '<appium.webdriver.webelement.WebElement (session="9b7f6afe-8ed8-4363-9ad3-bd8e477a11a4", element="1")>' was clicked
+INFO: 07-15 16:08:23: base_methods.py:123 * 15956 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text="立即体验"]
+INFO: 07-15 16:08:25: base_methods.py:221 * 15956 Sleep for 1 seconds
+INFO: 07-15 16:08:25: base_methods.py:208 * 15956 The element '<appium.webdriver.webelement.WebElement (session="9b7f6afe-8ed8-4363-9ad3-bd8e477a11a4", element="2")>' was clicked
+INFO: 07-15 16:08:25: base_methods.py:123 * 15956 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 16:08:26: base_methods.py:221 * 15956 Sleep for 1 seconds
+INFO: 07-15 16:08:26: base_methods.py:208 * 15956 The element '<appium.webdriver.webelement.WebElement (session="9b7f6afe-8ed8-4363-9ad3-bd8e477a11a4", element="3")>' was clicked
+INFO: 07-15 16:08:26: base_methods.py:123 * 15956 Had find the element '登录' successful by xpath value: //android.widget.TextView[@text="登录"]
+INFO: 07-15 16:08:27: base_methods.py:221 * 15956 Sleep for 1 seconds
+INFO: 07-15 16:08:27: base_methods.py:208 * 15956 The element '<appium.webdriver.webelement.WebElement (session="9b7f6afe-8ed8-4363-9ad3-bd8e477a11a4", element="4")>' was clicked
+INFO: 07-15 16:08:28: base_methods.py:123 * 15956 Had find the element '请输入您的手机号或用户名' successful by xpath value: //android.widget.EditText[@text="请输入您的手机号或用户名"]
+INFO: 07-15 16:08:38: base_methods.py:221 * 15956 Sleep for 1 seconds
+INFO: 07-15 16:08:38: base_methods.py:150 * 15956 Had type 'lxx345' in inputbox
+INFO: 07-15 16:08:39: base_methods.py:123 * 15956 Had find the element '请输入登录密码' successful by xpath value: //android.widget.EditText[@text="请输入登录密码"]
+INFO: 07-15 16:08:46: base_methods.py:221 * 15956 Sleep for 1 seconds
+INFO: 07-15 16:08:46: base_methods.py:150 * 15956 Had type '123456xy' in inputbox
+INFO: 07-15 16:08:49: base_methods.py:229 * 15956 隐藏键盘
+INFO: 07-15 16:08:50: base_methods.py:123 * 15956 Had find the element '登录' successful by xpath value: //android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[3]/android.widget.TextView[1]
+INFO: 07-15 16:08:51: base_methods.py:221 * 15956 Sleep for 1 seconds
+INFO: 07-15 16:08:51: base_methods.py:208 * 15956 The element '<appium.webdriver.webelement.WebElement (session="9b7f6afe-8ed8-4363-9ad3-bd8e477a11a4", element="7")>' was clicked
+INFO: 07-15 16:08:53: base_methods.py:123 * 15956 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 16:08:53: base_methods.py:240 * 15956 The element was displayed
+INFO: 07-15 16:08:53: base_methods.py:123 * 15956 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 16:08:57: base_methods.py:221 * 15956 Sleep for 1 seconds
+INFO: 07-15 16:08:57: base_methods.py:208 * 15956 The element '<appium.webdriver.webelement.WebElement (session="9b7f6afe-8ed8-4363-9ad3-bd8e477a11a4", element="9")>' was clicked
+INFO: 07-15 16:08:59: base_methods.py:221 * 15956 Sleep for 1 seconds
+INFO: 07-15 16:08:59: base_methods.py:208 * 15956 The element '<appium.webdriver.webelement.WebElement (session="9b7f6afe-8ed8-4363-9ad3-bd8e477a11a4", element="10")>' was clicked
+INFO: 07-15 16:08:59: base_methods.py:123 * 15956 Had find the element '退出登录' successful by xpath value: //android.widget.TextView[@text='退出登录']
+INFO: 07-15 16:09:00: base_methods.py:221 * 15956 Sleep for 1 seconds
+INFO: 07-15 16:09:00: base_methods.py:208 * 15956 The element '<appium.webdriver.webelement.WebElement (session="9b7f6afe-8ed8-4363-9ad3-bd8e477a11a4", element="11")>' was clicked
+INFO: 07-15 16:09:00: base_methods.py:123 * 15956 Had find the element '退出' successful by xpath value: //android.widget.TextView[@text='退出']
+INFO: 07-15 16:09:01: base_methods.py:221 * 15956 Sleep for 1 seconds
+INFO: 07-15 16:09:01: base_methods.py:208 * 15956 The element '<appium.webdriver.webelement.WebElement (session="9b7f6afe-8ed8-4363-9ad3-bd8e477a11a4", element="12")>' was clicked
+INFO: 07-15 16:09:12: base_methods.py:59 * 15956 APP关闭
+INFO: 07-15 16:23:27: base_methods.py:28 * 17236  * BaseMethod is calling ...       
+INFO: 07-15 16:23:33: base_methods.py:117 * 17236 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 16:23:36: base_methods.py:222 * 17236 Sleep for 1 seconds
+INFO: 07-15 16:23:36: base_methods.py:209 * 17236 The element '<appium.webdriver.webelement.WebElement (session="310e53df-f3f7-4ff2-b5c7-961a69fea9ee", element="1")>' was clicked
+INFO: 07-15 16:23:41: base_methods.py:124 * 17236 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text="立即体验"]
+INFO: 07-15 16:23:42: base_methods.py:222 * 17236 Sleep for 1 seconds
+INFO: 07-15 16:23:42: base_methods.py:209 * 17236 The element '<appium.webdriver.webelement.WebElement (session="310e53df-f3f7-4ff2-b5c7-961a69fea9ee", element="2")>' was clicked
+INFO: 07-15 16:23:42: base_methods.py:124 * 17236 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 16:23:43: base_methods.py:222 * 17236 Sleep for 1 seconds
+INFO: 07-15 16:23:43: base_methods.py:209 * 17236 The element '<appium.webdriver.webelement.WebElement (session="310e53df-f3f7-4ff2-b5c7-961a69fea9ee", element="3")>' was clicked
+INFO: 07-15 16:23:43: base_methods.py:124 * 17236 Had find the element '登录' successful by xpath value: //android.widget.TextView[@text="登录"]
+INFO: 07-15 16:23:44: base_methods.py:222 * 17236 Sleep for 1 seconds
+INFO: 07-15 16:23:44: base_methods.py:209 * 17236 The element '<appium.webdriver.webelement.WebElement (session="310e53df-f3f7-4ff2-b5c7-961a69fea9ee", element="4")>' was clicked
+INFO: 07-15 16:23:46: base_methods.py:124 * 17236 Had find the element '请输入您的手机号或用户名' successful by xpath value: //android.widget.EditText[@text="请输入您的手机号或用户名"]
+INFO: 07-15 16:23:56: base_methods.py:222 * 17236 Sleep for 1 seconds
+INFO: 07-15 16:23:56: base_methods.py:151 * 17236 Had type 'lxx345' in inputbox
+INFO: 07-15 16:23:57: base_methods.py:124 * 17236 Had find the element '请输入登录密码' successful by xpath value: //android.widget.EditText[@text="请输入登录密码"]
+INFO: 07-15 16:24:04: base_methods.py:222 * 17236 Sleep for 1 seconds
+INFO: 07-15 16:24:04: base_methods.py:151 * 17236 Had type '123456xy' in inputbox
+INFO: 07-15 16:24:06: base_methods.py:230 * 17236 隐藏键盘
+INFO: 07-15 16:24:07: base_methods.py:124 * 17236 Had find the element '登录' successful by xpath value: //android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[3]/android.widget.TextView[1]
+INFO: 07-15 16:24:08: base_methods.py:222 * 17236 Sleep for 1 seconds
+INFO: 07-15 16:24:08: base_methods.py:209 * 17236 The element '<appium.webdriver.webelement.WebElement (session="310e53df-f3f7-4ff2-b5c7-961a69fea9ee", element="7")>' was clicked
+INFO: 07-15 16:24:10: base_methods.py:124 * 17236 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 16:24:10: base_methods.py:241 * 17236 The element was displayed
+INFO: 07-15 16:24:10: base_methods.py:124 * 17236 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 16:24:14: base_methods.py:222 * 17236 Sleep for 1 seconds
+INFO: 07-15 16:24:14: base_methods.py:209 * 17236 The element '<appium.webdriver.webelement.WebElement (session="310e53df-f3f7-4ff2-b5c7-961a69fea9ee", element="9")>' was clicked
+INFO: 07-15 16:24:16: base_methods.py:222 * 17236 Sleep for 1 seconds
+INFO: 07-15 16:24:16: base_methods.py:209 * 17236 The element '<appium.webdriver.webelement.WebElement (session="310e53df-f3f7-4ff2-b5c7-961a69fea9ee", element="10")>' was clicked
+INFO: 07-15 16:24:16: base_methods.py:124 * 17236 Had find the element '退出登录' successful by xpath value: //android.widget.TextView[@text='退出登录']
+INFO: 07-15 16:24:17: base_methods.py:222 * 17236 Sleep for 1 seconds
+INFO: 07-15 16:24:17: base_methods.py:209 * 17236 The element '<appium.webdriver.webelement.WebElement (session="310e53df-f3f7-4ff2-b5c7-961a69fea9ee", element="11")>' was clicked
+INFO: 07-15 16:24:17: base_methods.py:124 * 17236 Had find the element '退出' successful by xpath value: //android.widget.TextView[@text='退出']
+INFO: 07-15 16:24:19: base_methods.py:222 * 17236 Sleep for 1 seconds
+INFO: 07-15 16:24:19: base_methods.py:209 * 17236 The element '<appium.webdriver.webelement.WebElement (session="310e53df-f3f7-4ff2-b5c7-961a69fea9ee", element="12")>' was clicked
+INFO: 07-15 16:24:19: base_methods.py:60 * 17236 APP关闭
+INFO: 07-15 16:27:43: base_methods.py:28 * 13388  * BaseMethod is calling ...       
+INFO: 07-15 16:27:49: base_methods.py:117 * 13388 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 16:27:52: base_methods.py:222 * 13388 Sleep for 1 seconds
+INFO: 07-15 16:27:52: base_methods.py:209 * 13388 The element '<appium.webdriver.webelement.WebElement (session="91c24ad1-dff5-40ef-80e8-ec32a4d247d3", element="1")>' was clicked
+INFO: 07-15 16:27:57: base_methods.py:124 * 13388 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text="立即体验"]
+INFO: 07-15 16:27:58: base_methods.py:222 * 13388 Sleep for 1 seconds
+INFO: 07-15 16:27:58: base_methods.py:209 * 13388 The element '<appium.webdriver.webelement.WebElement (session="91c24ad1-dff5-40ef-80e8-ec32a4d247d3", element="2")>' was clicked
+INFO: 07-15 16:27:58: base_methods.py:124 * 13388 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 16:27:59: base_methods.py:222 * 13388 Sleep for 1 seconds
+INFO: 07-15 16:27:59: base_methods.py:209 * 13388 The element '<appium.webdriver.webelement.WebElement (session="91c24ad1-dff5-40ef-80e8-ec32a4d247d3", element="3")>' was clicked
+INFO: 07-15 16:27:59: base_methods.py:124 * 13388 Had find the element '登录' successful by xpath value: //android.widget.TextView[@text="登录"]
+INFO: 07-15 16:28:00: base_methods.py:222 * 13388 Sleep for 1 seconds
+INFO: 07-15 16:28:00: base_methods.py:209 * 13388 The element '<appium.webdriver.webelement.WebElement (session="91c24ad1-dff5-40ef-80e8-ec32a4d247d3", element="4")>' was clicked
+INFO: 07-15 16:28:01: base_methods.py:124 * 13388 Had find the element '请输入您的手机号或用户名' successful by xpath value: //android.widget.EditText[@text="请输入您的手机号或用户名"]
+INFO: 07-15 16:28:11: base_methods.py:222 * 13388 Sleep for 1 seconds
+INFO: 07-15 16:28:11: base_methods.py:151 * 13388 Had type 'lxx345' in inputbox
+INFO: 07-15 16:28:13: base_methods.py:124 * 13388 Had find the element '请输入登录密码' successful by xpath value: //android.widget.EditText[@text="请输入登录密码"]
+INFO: 07-15 16:28:20: base_methods.py:222 * 13388 Sleep for 1 seconds
+INFO: 07-15 16:28:20: base_methods.py:151 * 13388 Had type '123456xy' in inputbox
+INFO: 07-15 16:28:22: base_methods.py:230 * 13388 隐藏键盘
+INFO: 07-15 16:28:23: base_methods.py:124 * 13388 Had find the element '登录' successful by xpath value: //android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[3]/android.widget.TextView[1]
+INFO: 07-15 16:28:24: base_methods.py:222 * 13388 Sleep for 1 seconds
+INFO: 07-15 16:28:24: base_methods.py:209 * 13388 The element '<appium.webdriver.webelement.WebElement (session="91c24ad1-dff5-40ef-80e8-ec32a4d247d3", element="7")>' was clicked
+INFO: 07-15 16:28:26: base_methods.py:124 * 13388 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 16:28:26: base_methods.py:241 * 13388 The element was displayed
+INFO: 07-15 16:28:27: base_methods.py:124 * 13388 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 16:28:31: base_methods.py:222 * 13388 Sleep for 1 seconds
+INFO: 07-15 16:28:31: base_methods.py:209 * 13388 The element '<appium.webdriver.webelement.WebElement (session="91c24ad1-dff5-40ef-80e8-ec32a4d247d3", element="9")>' was clicked
+INFO: 07-15 16:28:32: base_methods.py:222 * 13388 Sleep for 1 seconds
+INFO: 07-15 16:28:32: base_methods.py:209 * 13388 The element '<appium.webdriver.webelement.WebElement (session="91c24ad1-dff5-40ef-80e8-ec32a4d247d3", element="10")>' was clicked
+INFO: 07-15 16:28:32: base_methods.py:124 * 13388 Had find the element '退出登录' successful by xpath value: //android.widget.TextView[@text='退出登录']
+INFO: 07-15 16:28:33: base_methods.py:222 * 13388 Sleep for 1 seconds
+INFO: 07-15 16:28:33: base_methods.py:209 * 13388 The element '<appium.webdriver.webelement.WebElement (session="91c24ad1-dff5-40ef-80e8-ec32a4d247d3", element="11")>' was clicked
+INFO: 07-15 16:28:34: base_methods.py:124 * 13388 Had find the element '退出' successful by xpath value: //android.widget.TextView[@text='退出']
+INFO: 07-15 16:28:35: base_methods.py:222 * 13388 Sleep for 1 seconds
+INFO: 07-15 16:28:35: base_methods.py:209 * 13388 The element '<appium.webdriver.webelement.WebElement (session="91c24ad1-dff5-40ef-80e8-ec32a4d247d3", element="12")>' was clicked
+INFO: 07-15 16:28:35: base_methods.py:60 * 13388 APP关闭
+INFO: 07-15 17:04:01: base_methods.py:26 * 7836  * BaseMethod is calling ...       
+INFO: 07-15 17:04:07: base_methods.py:115 * 7836 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 17:04:10: base_methods.py:220 * 7836 Sleep for 1 seconds
+INFO: 07-15 17:04:10: base_methods.py:207 * 7836 The element '<appium.webdriver.webelement.WebElement (session="c0dfb792-ea7b-42bb-8d51-69b368c20a49", element="1")>' was clicked
+INFO: 07-15 17:04:15: base_methods.py:122 * 7836 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text="立即体验"]
+INFO: 07-15 17:04:16: base_methods.py:220 * 7836 Sleep for 1 seconds
+INFO: 07-15 17:04:16: base_methods.py:207 * 7836 The element '<appium.webdriver.webelement.WebElement (session="c0dfb792-ea7b-42bb-8d51-69b368c20a49", element="2")>' was clicked
+INFO: 07-15 17:04:16: base_methods.py:122 * 7836 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 17:04:18: base_methods.py:220 * 7836 Sleep for 1 seconds
+INFO: 07-15 17:04:18: base_methods.py:207 * 7836 The element '<appium.webdriver.webelement.WebElement (session="c0dfb792-ea7b-42bb-8d51-69b368c20a49", element="3")>' was clicked
+INFO: 07-15 17:04:18: base_methods.py:122 * 7836 Had find the element '登录' successful by xpath value: //android.widget.TextView[@text="登录"]
+INFO: 07-15 17:04:19: base_methods.py:220 * 7836 Sleep for 1 seconds
+INFO: 07-15 17:04:19: base_methods.py:207 * 7836 The element '<appium.webdriver.webelement.WebElement (session="c0dfb792-ea7b-42bb-8d51-69b368c20a49", element="4")>' was clicked
+INFO: 07-15 17:04:20: base_methods.py:122 * 7836 Had find the element '请输入您的手机号或用户名' successful by xpath value: //android.widget.EditText[@text="请输入您的手机号或用户名"]
+INFO: 07-15 17:04:30: base_methods.py:220 * 7836 Sleep for 1 seconds
+INFO: 07-15 17:04:30: base_methods.py:149 * 7836 Had type 'lxx345' in inputbox
+INFO: 07-15 17:04:31: base_methods.py:122 * 7836 Had find the element '请输入登录密码' successful by xpath value: //android.widget.EditText[@text="请输入登录密码"]
+INFO: 07-15 17:04:38: base_methods.py:220 * 7836 Sleep for 1 seconds
+INFO: 07-15 17:04:38: base_methods.py:149 * 7836 Had type '123456xy' in inputbox
+INFO: 07-15 17:04:40: base_methods.py:228 * 7836 隐藏键盘
+INFO: 07-15 17:04:41: base_methods.py:122 * 7836 Had find the element '登录' successful by xpath value: //android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[3]/android.widget.TextView[1]
+INFO: 07-15 17:04:42: base_methods.py:220 * 7836 Sleep for 1 seconds
+INFO: 07-15 17:04:42: base_methods.py:207 * 7836 The element '<appium.webdriver.webelement.WebElement (session="c0dfb792-ea7b-42bb-8d51-69b368c20a49", element="7")>' was clicked
+INFO: 07-15 17:04:45: base_methods.py:122 * 7836 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 17:04:45: base_methods.py:239 * 7836 The element was displayed
+INFO: 07-15 17:04:45: base_methods.py:122 * 7836 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 17:04:49: base_methods.py:220 * 7836 Sleep for 1 seconds
+INFO: 07-15 17:04:49: base_methods.py:207 * 7836 The element '<appium.webdriver.webelement.WebElement (session="c0dfb792-ea7b-42bb-8d51-69b368c20a49", element="9")>' was clicked
+INFO: 07-15 17:04:51: base_methods.py:220 * 7836 Sleep for 1 seconds
+INFO: 07-15 17:04:51: base_methods.py:207 * 7836 The element '<appium.webdriver.webelement.WebElement (session="c0dfb792-ea7b-42bb-8d51-69b368c20a49", element="10")>' was clicked
+INFO: 07-15 17:04:51: base_methods.py:122 * 7836 Had find the element '退出登录' successful by xpath value: //android.widget.TextView[@text='退出登录']
+INFO: 07-15 17:04:52: base_methods.py:220 * 7836 Sleep for 1 seconds
+INFO: 07-15 17:04:52: base_methods.py:207 * 7836 The element '<appium.webdriver.webelement.WebElement (session="c0dfb792-ea7b-42bb-8d51-69b368c20a49", element="11")>' was clicked
+INFO: 07-15 17:04:52: base_methods.py:122 * 7836 Had find the element '退出' successful by xpath value: //android.widget.TextView[@text='退出']
+INFO: 07-15 17:04:53: base_methods.py:220 * 7836 Sleep for 1 seconds
+INFO: 07-15 17:04:53: base_methods.py:207 * 7836 The element '<appium.webdriver.webelement.WebElement (session="c0dfb792-ea7b-42bb-8d51-69b368c20a49", element="12")>' was clicked
+INFO: 07-15 17:04:54: base_methods.py:58 * 7836 APP关闭
+INFO: 07-15 17:06:38: base_methods.py:26 * 7576  * BaseMethod is calling ...       
+INFO: 07-15 17:06:44: base_methods.py:115 * 7576 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 17:06:47: base_methods.py:220 * 7576 Sleep for 1 seconds
+INFO: 07-15 17:06:47: base_methods.py:207 * 7576 The element '<appium.webdriver.webelement.WebElement (session="e832753c-aadf-418d-920c-665b05bde8b3", element="1")>' was clicked
+INFO: 07-15 17:06:52: base_methods.py:122 * 7576 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text="立即体验"]
+INFO: 07-15 17:06:53: base_methods.py:220 * 7576 Sleep for 1 seconds
+INFO: 07-15 17:06:53: base_methods.py:207 * 7576 The element '<appium.webdriver.webelement.WebElement (session="e832753c-aadf-418d-920c-665b05bde8b3", element="2")>' was clicked
+INFO: 07-15 17:06:53: base_methods.py:122 * 7576 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 17:06:54: base_methods.py:220 * 7576 Sleep for 1 seconds
+INFO: 07-15 17:06:54: base_methods.py:207 * 7576 The element '<appium.webdriver.webelement.WebElement (session="e832753c-aadf-418d-920c-665b05bde8b3", element="3")>' was clicked
+INFO: 07-15 17:06:54: base_methods.py:122 * 7576 Had find the element '登录' successful by xpath value: //android.widget.TextView[@text="登录"]
+INFO: 07-15 17:06:55: base_methods.py:220 * 7576 Sleep for 1 seconds
+INFO: 07-15 17:06:55: base_methods.py:207 * 7576 The element '<appium.webdriver.webelement.WebElement (session="e832753c-aadf-418d-920c-665b05bde8b3", element="4")>' was clicked
+INFO: 07-15 17:06:56: base_methods.py:122 * 7576 Had find the element '请输入您的手机号或用户名' successful by xpath value: //android.widget.EditText[@text="请输入您的手机号或用户名"]
+INFO: 07-15 17:07:07: base_methods.py:220 * 7576 Sleep for 1 seconds
+INFO: 07-15 17:07:07: base_methods.py:149 * 7576 Had type 'lxx345' in inputbox
+INFO: 07-15 17:07:08: base_methods.py:122 * 7576 Had find the element '请输入登录密码' successful by xpath value: //android.widget.EditText[@text="请输入登录密码"]
+INFO: 07-15 17:07:15: base_methods.py:220 * 7576 Sleep for 1 seconds
+INFO: 07-15 17:07:15: base_methods.py:149 * 7576 Had type '123456xy' in inputbox
+INFO: 07-15 17:07:17: base_methods.py:228 * 7576 隐藏键盘
+INFO: 07-15 17:07:19: base_methods.py:122 * 7576 Had find the element '登录' successful by xpath value: //android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[3]/android.widget.TextView[1]
+INFO: 07-15 17:07:20: base_methods.py:220 * 7576 Sleep for 1 seconds
+INFO: 07-15 17:07:20: base_methods.py:207 * 7576 The element '<appium.webdriver.webelement.WebElement (session="e832753c-aadf-418d-920c-665b05bde8b3", element="7")>' was clicked
+INFO: 07-15 17:07:22: base_methods.py:122 * 7576 Had find the element '首页' successful by xpath value: //android.widget.TextView[@text='首页']
+INFO: 07-15 17:07:23: base_methods.py:220 * 7576 Sleep for 1 seconds
+INFO: 07-15 17:07:23: base_methods.py:207 * 7576 The element '<appium.webdriver.webelement.WebElement (session="e832753c-aadf-418d-920c-665b05bde8b3", element="8")>' was clicked
+INFO: 07-15 17:09:04: base_methods.py:26 * 9488  * BaseMethod is calling ...       
+INFO: 07-15 17:09:10: base_methods.py:115 * 9488 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 17:09:14: base_methods.py:220 * 9488 Sleep for 1 seconds
+INFO: 07-15 17:09:14: base_methods.py:207 * 9488 The element '<appium.webdriver.webelement.WebElement (session="306ac1d9-df59-41bb-a835-dc28ab40bbb3", element="1")>' was clicked
+INFO: 07-15 17:09:18: base_methods.py:122 * 9488 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text="立即体验"]
+INFO: 07-15 17:09:20: base_methods.py:220 * 9488 Sleep for 1 seconds
+INFO: 07-15 17:09:20: base_methods.py:207 * 9488 The element '<appium.webdriver.webelement.WebElement (session="306ac1d9-df59-41bb-a835-dc28ab40bbb3", element="2")>' was clicked
+INFO: 07-15 17:09:20: base_methods.py:122 * 9488 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 17:09:21: base_methods.py:220 * 9488 Sleep for 1 seconds
+INFO: 07-15 17:09:21: base_methods.py:207 * 9488 The element '<appium.webdriver.webelement.WebElement (session="306ac1d9-df59-41bb-a835-dc28ab40bbb3", element="3")>' was clicked
+INFO: 07-15 17:09:21: base_methods.py:122 * 9488 Had find the element '登录' successful by xpath value: //android.widget.TextView[@text="登录"]
+INFO: 07-15 17:09:22: base_methods.py:220 * 9488 Sleep for 1 seconds
+INFO: 07-15 17:09:22: base_methods.py:207 * 9488 The element '<appium.webdriver.webelement.WebElement (session="306ac1d9-df59-41bb-a835-dc28ab40bbb3", element="4")>' was clicked
+INFO: 07-15 17:09:23: base_methods.py:122 * 9488 Had find the element '请输入您的手机号或用户名' successful by xpath value: //android.widget.EditText[@text="请输入您的手机号或用户名"]
+INFO: 07-15 17:09:33: base_methods.py:220 * 9488 Sleep for 1 seconds
+INFO: 07-15 17:09:33: base_methods.py:149 * 9488 Had type 'lxx345' in inputbox
+INFO: 07-15 17:09:34: base_methods.py:122 * 9488 Had find the element '请输入登录密码' successful by xpath value: //android.widget.EditText[@text="请输入登录密码"]
+INFO: 07-15 17:09:41: base_methods.py:220 * 9488 Sleep for 1 seconds
+INFO: 07-15 17:09:41: base_methods.py:149 * 9488 Had type '123456xy' in inputbox
+INFO: 07-15 17:09:43: base_methods.py:228 * 9488 隐藏键盘
+INFO: 07-15 17:09:45: base_methods.py:122 * 9488 Had find the element '登录' successful by xpath value: //android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[3]/android.widget.TextView[1]
+INFO: 07-15 17:09:46: base_methods.py:220 * 9488 Sleep for 1 seconds
+INFO: 07-15 17:09:46: base_methods.py:207 * 9488 The element '<appium.webdriver.webelement.WebElement (session="306ac1d9-df59-41bb-a835-dc28ab40bbb3", element="7")>' was clicked
+INFO: 07-15 17:09:48: base_methods.py:122 * 9488 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 17:09:48: base_methods.py:239 * 9488 The element was displayed
+INFO: 07-15 17:09:48: base_methods.py:122 * 9488 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 17:09:52: base_methods.py:220 * 9488 Sleep for 1 seconds
+INFO: 07-15 17:09:52: base_methods.py:207 * 9488 The element '<appium.webdriver.webelement.WebElement (session="306ac1d9-df59-41bb-a835-dc28ab40bbb3", element="9")>' was clicked
+INFO: 07-15 17:09:54: base_methods.py:220 * 9488 Sleep for 1 seconds
+INFO: 07-15 17:09:54: base_methods.py:207 * 9488 The element '<appium.webdriver.webelement.WebElement (session="306ac1d9-df59-41bb-a835-dc28ab40bbb3", element="10")>' was clicked
+INFO: 07-15 17:09:54: base_methods.py:122 * 9488 Had find the element '退出登录' successful by xpath value: //android.widget.TextView[@text='退出登录']
+INFO: 07-15 17:09:55: base_methods.py:220 * 9488 Sleep for 1 seconds
+INFO: 07-15 17:09:55: base_methods.py:207 * 9488 The element '<appium.webdriver.webelement.WebElement (session="306ac1d9-df59-41bb-a835-dc28ab40bbb3", element="11")>' was clicked
+INFO: 07-15 17:09:55: base_methods.py:122 * 9488 Had find the element '退出' successful by xpath value: //android.widget.TextView[@text='退出']
+INFO: 07-15 17:09:56: base_methods.py:220 * 9488 Sleep for 1 seconds
+INFO: 07-15 17:09:56: base_methods.py:207 * 9488 The element '<appium.webdriver.webelement.WebElement (session="306ac1d9-df59-41bb-a835-dc28ab40bbb3", element="12")>' was clicked
+INFO: 07-15 17:09:57: base_methods.py:58 * 9488 APP关闭
+INFO: 07-15 17:10:42: base_methods.py:26 * 4120  * BaseMethod is calling ...       
+INFO: 07-15 17:10:48: base_methods.py:115 * 4120 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 17:10:51: base_methods.py:220 * 4120 Sleep for 1 seconds
+INFO: 07-15 17:10:51: base_methods.py:207 * 4120 The element '<appium.webdriver.webelement.WebElement (session="bb686350-2d9b-4ab8-8707-af03efc5188d", element="1")>' was clicked
+INFO: 07-15 17:10:56: base_methods.py:122 * 4120 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text="立即体验"]
+INFO: 07-15 17:10:57: base_methods.py:220 * 4120 Sleep for 1 seconds
+INFO: 07-15 17:10:57: base_methods.py:207 * 4120 The element '<appium.webdriver.webelement.WebElement (session="bb686350-2d9b-4ab8-8707-af03efc5188d", element="2")>' was clicked
+INFO: 07-15 17:10:57: base_methods.py:122 * 4120 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 17:10:58: base_methods.py:220 * 4120 Sleep for 1 seconds
+INFO: 07-15 17:10:58: base_methods.py:207 * 4120 The element '<appium.webdriver.webelement.WebElement (session="bb686350-2d9b-4ab8-8707-af03efc5188d", element="3")>' was clicked
+INFO: 07-15 17:10:58: base_methods.py:122 * 4120 Had find the element '登录' successful by xpath value: //android.widget.TextView[@text="登录"]
+INFO: 07-15 17:10:59: base_methods.py:220 * 4120 Sleep for 1 seconds
+INFO: 07-15 17:10:59: base_methods.py:207 * 4120 The element '<appium.webdriver.webelement.WebElement (session="bb686350-2d9b-4ab8-8707-af03efc5188d", element="4")>' was clicked
+INFO: 07-15 17:11:00: base_methods.py:122 * 4120 Had find the element '请输入您的手机号或用户名' successful by xpath value: //android.widget.EditText[@text="请输入您的手机号或用户名"]
+INFO: 07-15 17:11:11: base_methods.py:220 * 4120 Sleep for 1 seconds
+INFO: 07-15 17:11:11: base_methods.py:149 * 4120 Had type 'lxx345' in inputbox
+INFO: 07-15 17:11:12: base_methods.py:122 * 4120 Had find the element '请输入登录密码' successful by xpath value: //android.widget.EditText[@text="请输入登录密码"]
+INFO: 07-15 17:11:19: base_methods.py:220 * 4120 Sleep for 1 seconds
+INFO: 07-15 17:11:19: base_methods.py:149 * 4120 Had type '123456xy' in inputbox
+INFO: 07-15 17:11:21: base_methods.py:228 * 4120 隐藏键盘
+INFO: 07-15 17:11:22: base_methods.py:122 * 4120 Had find the element '登录' successful by xpath value: //android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[3]/android.widget.TextView[1]
+INFO: 07-15 17:11:23: base_methods.py:220 * 4120 Sleep for 1 seconds
+INFO: 07-15 17:11:23: base_methods.py:207 * 4120 The element '<appium.webdriver.webelement.WebElement (session="bb686350-2d9b-4ab8-8707-af03efc5188d", element="7")>' was clicked
+INFO: 07-15 17:11:25: base_methods.py:122 * 4120 Had find the element '首页' successful by xpath value: //android.widget.TextView[@text='首页']
+INFO: 07-15 17:11:27: base_methods.py:220 * 4120 Sleep for 1 seconds
+INFO: 07-15 17:11:27: base_methods.py:207 * 4120 The element '<appium.webdriver.webelement.WebElement (session="bb686350-2d9b-4ab8-8707-af03efc5188d", element="8")>' was clicked
+INFO: 07-15 17:11:27: base_methods.py:115 * 4120 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 17:11:30: base_methods.py:220 * 4120 Sleep for 1 seconds
+INFO: 07-15 17:11:30: base_methods.py:207 * 4120 The element '<appium.webdriver.webelement.WebElement (session="bb686350-2d9b-4ab8-8707-af03efc5188d", element="9")>' was clicked
+INFO: 07-15 17:11:30: base_methods.py:122 * 4120 Had find the element '在线门诊' successful by xpath value: //android.widget.TextView[@text='在线门诊']
+INFO: 07-15 17:11:31: base_methods.py:220 * 4120 Sleep for 1 seconds
+INFO: 07-15 17:11:31: base_methods.py:207 * 4120 The element '<appium.webdriver.webelement.WebElement (session="bb686350-2d9b-4ab8-8707-af03efc5188d", element="10")>' was clicked
+INFO: 07-15 17:11:32: base_methods.py:122 * 4120 Had find the element '西安交通大学第一附属医院' successful by xpath value: //android.widget.TextView[@text='西安交通大学第一附属医院']
+INFO: 07-15 17:11:33: base_methods.py:220 * 4120 Sleep for 1 seconds
+INFO: 07-15 17:11:33: base_methods.py:207 * 4120 The element '<appium.webdriver.webelement.WebElement (session="bb686350-2d9b-4ab8-8707-af03efc5188d", element="11")>' was clicked
+INFO: 07-15 17:11:33: base_methods.py:122 * 4120 Had find the element '肿瘤科' successful by xpath value: //android.widget.TextView[@text='肿瘤科']
+INFO: 07-15 17:11:34: base_methods.py:220 * 4120 Sleep for 1 seconds
+INFO: 07-15 17:11:34: base_methods.py:207 * 4120 The element '<appium.webdriver.webelement.WebElement (session="bb686350-2d9b-4ab8-8707-af03efc5188d", element="12")>' was clicked
+INFO: 07-15 17:11:34: base_methods.py:122 * 4120 Had find the element '' successful by xpath value: //android.view.ViewGroup/android.widget.ScrollView[2]/android.view.ViewGroup[1]/android.view.ViewGroup[2]
+INFO: 07-15 17:11:34: base_methods.py:164 * 4120 获取'<appium.webdriver.webelement.WebElement (session="bb686350-2d9b-4ab8-8707-af03efc5188d", element="13")>'的text
+INFO: 07-15 17:11:35: base_methods.py:122 * 4120 Had find the element '营养科门诊' successful by xpath value: //android.widget.TextView[@text='营养科门诊']
+INFO: 07-15 17:11:36: base_methods.py:220 * 4120 Sleep for 1 seconds
+INFO: 07-15 17:11:36: base_methods.py:207 * 4120 The element '<appium.webdriver.webelement.WebElement (session="bb686350-2d9b-4ab8-8707-af03efc5188d", element="14")>' was clicked
+INFO: 07-15 17:11:36: base_methods.py:122 * 4120 Had find the element '于红' successful by xpath value: //android.widget.TextView[@text='于红']
+INFO: 07-15 17:11:37: base_methods.py:220 * 4120 Sleep for 1 seconds
+INFO: 07-15 17:11:37: base_methods.py:207 * 4120 The element '<appium.webdriver.webelement.WebElement (session="bb686350-2d9b-4ab8-8707-af03efc5188d", element="15")>' was clicked
+INFO: 07-15 17:11:38: base_methods.py:122 * 4120 Had find the element '预约挂号' successful by xpath value: //android.widget.TextView[@text='预约挂号']
+INFO: 07-15 17:11:39: base_methods.py:220 * 4120 Sleep for 1 seconds
+INFO: 07-15 17:11:39: base_methods.py:207 * 4120 The element '<appium.webdriver.webelement.WebElement (session="bb686350-2d9b-4ab8-8707-af03efc5188d", element="16")>' was clicked
+INFO: 07-15 17:11:40: base_methods.py:100 * 4120 Had find the element '[<appium.webdriver.webelement.WebElement (session="bb686350-2d9b-4ab8-8707-af03efc5188d", element="17")>, <appium.webdriver.webelement.WebElement (session="bb686350-2d9b-4ab8-8707-af03efc5188d", element="18")>, <appium.webdriver.webelement.WebElement (session="bb686350-2d9b-4ab8-8707-af03efc5188d", element="19")>, <appium.webdriver.webelement.WebElement (session="bb686350-2d9b-4ab8-8707-af03efc5188d", element="20")>, <appium.webdriver.webelement.WebElement (session="bb686350-2d9b-4ab8-8707-af03efc5188d", element="21")>]' successful by xpath value: //android.widget.TextView[@text='有号']
+INFO: 07-15 17:11:42: base_methods.py:220 * 4120 Sleep for 1 seconds
+INFO: 07-15 17:11:42: base_methods.py:207 * 4120 The element '<appium.webdriver.webelement.WebElement (session="bb686350-2d9b-4ab8-8707-af03efc5188d", element="17")>' was clicked
+INFO: 07-15 17:11:43: base_methods.py:100 * 4120 Had find the element '[<appium.webdriver.webelement.WebElement (session="bb686350-2d9b-4ab8-8707-af03efc5188d", element="22")>, <appium.webdriver.webelement.WebElement (session="bb686350-2d9b-4ab8-8707-af03efc5188d", element="23")>, <appium.webdriver.webelement.WebElement (session="bb686350-2d9b-4ab8-8707-af03efc5188d", element="24")>, <appium.webdriver.webelement.WebElement (session="bb686350-2d9b-4ab8-8707-af03efc5188d", element="25")>, <appium.webdriver.webelement.WebElement (session="bb686350-2d9b-4ab8-8707-af03efc5188d", element="26")>]' successful by xpath value: //android.widget.TextView[@text='预约']
+INFO: 07-15 17:11:44: base_methods.py:220 * 4120 Sleep for 1 seconds
+INFO: 07-15 17:11:44: base_methods.py:207 * 4120 The element '<appium.webdriver.webelement.WebElement (session="bb686350-2d9b-4ab8-8707-af03efc5188d", element="22")>' was clicked
+INFO: 07-15 17:11:45: base_methods.py:122 * 4120 Had find the element '立即预约' successful by xpath value: //android.widget.TextView[@text='立即预约']
+INFO: 07-15 17:11:46: base_methods.py:220 * 4120 Sleep for 1 seconds
+INFO: 07-15 17:11:46: base_methods.py:207 * 4120 The element '<appium.webdriver.webelement.WebElement (session="bb686350-2d9b-4ab8-8707-af03efc5188d", element="27")>' was clicked
+INFO: 07-15 17:11:46: base_methods.py:122 * 4120 Had find the element '立即预约' successful by xpath value: //android.widget.TextView[@text='立即预约']
+INFO: 07-15 17:11:48: base_methods.py:220 * 4120 Sleep for 1 seconds
+INFO: 07-15 17:11:48: base_methods.py:207 * 4120 The element '<appium.webdriver.webelement.WebElement (session="bb686350-2d9b-4ab8-8707-af03efc5188d", element="28")>' was clicked
+INFO: 07-15 17:11:49: base_methods.py:122 * 4120 Had find the element '请输入您的病情信息，以便医生更有效的为您服务！' successful by xpath value: //android.widget.EditText[@text='请输入您的病情信息，以便医生更有效的为您服务！']
+INFO: 07-15 17:12:00: base_methods.py:220 * 4120 Sleep for 1 seconds
+INFO: 07-15 17:12:00: base_methods.py:149 * 4120 Had type '预约挂号自动化测试' in inputbox
+INFO: 07-15 17:12:01: base_methods.py:122 * 4120 Had find the element '' successful by xpath value: //android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup[2]/android.view.ViewGroup[1]/android.view.ViewGroup[2]
+INFO: 07-15 17:12:02: base_methods.py:220 * 4120 Sleep for 1 seconds
+INFO: 07-15 17:12:02: base_methods.py:207 * 4120 The element '<appium.webdriver.webelement.WebElement (session="bb686350-2d9b-4ab8-8707-af03efc5188d", element="30")>' was clicked
+INFO: 07-15 17:12:03: base_methods.py:122 * 4120 Had find the element '立即支付' successful by xpath value: //android.widget.TextView[@text='立即支付']
+INFO: 07-15 17:12:04: base_methods.py:220 * 4120 Sleep for 1 seconds
+INFO: 07-15 17:12:04: base_methods.py:207 * 4120 The element '<appium.webdriver.webelement.WebElement (session="bb686350-2d9b-4ab8-8707-af03efc5188d", element="31")>' was clicked
+INFO: 07-15 17:12:04: base_methods.py:122 * 4120 Had find the element '确定支付' successful by xpath value: //android.widget.TextView[@text='确定支付']
+INFO: 07-15 17:12:06: base_methods.py:220 * 4120 Sleep for 1 seconds
+INFO: 07-15 17:12:06: base_methods.py:207 * 4120 The element '<appium.webdriver.webelement.WebElement (session="bb686350-2d9b-4ab8-8707-af03efc5188d", element="32")>' was clicked
+INFO: 07-15 17:34:20: base_methods.py:26 * 1332  * BaseMethod is calling ...       
+INFO: 07-15 17:34:26: base_methods.py:115 * 1332 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 17:34:30: base_methods.py:220 * 1332 Sleep for 1 seconds
+INFO: 07-15 17:34:30: base_methods.py:207 * 1332 The element '<appium.webdriver.webelement.WebElement (session="6bba46d9-24b0-4af1-8d9d-4811116d600a", element="1")>' was clicked
+INFO: 07-15 17:34:34: base_methods.py:122 * 1332 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text="立即体验"]
+INFO: 07-15 17:34:35: base_methods.py:220 * 1332 Sleep for 1 seconds
+INFO: 07-15 17:34:35: base_methods.py:207 * 1332 The element '<appium.webdriver.webelement.WebElement (session="6bba46d9-24b0-4af1-8d9d-4811116d600a", element="2")>' was clicked
+INFO: 07-15 17:34:35: base_methods.py:122 * 1332 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 17:34:37: base_methods.py:220 * 1332 Sleep for 1 seconds
+INFO: 07-15 17:34:37: base_methods.py:207 * 1332 The element '<appium.webdriver.webelement.WebElement (session="6bba46d9-24b0-4af1-8d9d-4811116d600a", element="3")>' was clicked
+INFO: 07-15 17:34:37: base_methods.py:122 * 1332 Had find the element '登录' successful by xpath value: //android.widget.TextView[@text="登录"]
+INFO: 07-15 17:34:38: base_methods.py:220 * 1332 Sleep for 1 seconds
+INFO: 07-15 17:34:38: base_methods.py:207 * 1332 The element '<appium.webdriver.webelement.WebElement (session="6bba46d9-24b0-4af1-8d9d-4811116d600a", element="4")>' was clicked
+INFO: 07-15 17:34:39: base_methods.py:122 * 1332 Had find the element '请输入您的手机号或用户名' successful by xpath value: //android.widget.EditText[@text="请输入您的手机号或用户名"]
+INFO: 07-15 17:34:49: base_methods.py:220 * 1332 Sleep for 1 seconds
+INFO: 07-15 17:34:49: base_methods.py:149 * 1332 Had type 'lxx345' in inputbox
+INFO: 07-15 17:34:50: base_methods.py:122 * 1332 Had find the element '请输入登录密码' successful by xpath value: //android.widget.EditText[@text="请输入登录密码"]
+INFO: 07-15 17:34:57: base_methods.py:220 * 1332 Sleep for 1 seconds
+INFO: 07-15 17:34:57: base_methods.py:149 * 1332 Had type '123456xy' in inputbox
+INFO: 07-15 17:34:59: base_methods.py:228 * 1332 隐藏键盘
+INFO: 07-15 17:35:00: base_methods.py:122 * 1332 Had find the element '登录' successful by xpath value: //android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[3]/android.widget.TextView[1]
+INFO: 07-15 17:35:02: base_methods.py:220 * 1332 Sleep for 1 seconds
+INFO: 07-15 17:35:02: base_methods.py:207 * 1332 The element '<appium.webdriver.webelement.WebElement (session="6bba46d9-24b0-4af1-8d9d-4811116d600a", element="7")>' was clicked
+INFO: 07-15 17:35:04: base_methods.py:122 * 1332 Had find the element '首页' successful by xpath value: //android.widget.TextView[@text='首页']
+INFO: 07-15 17:35:05: base_methods.py:220 * 1332 Sleep for 1 seconds
+INFO: 07-15 17:35:05: base_methods.py:207 * 1332 The element '<appium.webdriver.webelement.WebElement (session="6bba46d9-24b0-4af1-8d9d-4811116d600a", element="8")>' was clicked
+INFO: 07-15 17:35:05: base_methods.py:115 * 1332 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 17:35:09: base_methods.py:220 * 1332 Sleep for 1 seconds
+INFO: 07-15 17:35:09: base_methods.py:207 * 1332 The element '<appium.webdriver.webelement.WebElement (session="6bba46d9-24b0-4af1-8d9d-4811116d600a", element="9")>' was clicked
+INFO: 07-15 17:35:09: base_methods.py:122 * 1332 Had find the element '在线门诊' successful by xpath value: //android.widget.TextView[@text='在线门诊']
+INFO: 07-15 17:35:10: base_methods.py:220 * 1332 Sleep for 1 seconds
+INFO: 07-15 17:35:10: base_methods.py:207 * 1332 The element '<appium.webdriver.webelement.WebElement (session="6bba46d9-24b0-4af1-8d9d-4811116d600a", element="10")>' was clicked
+INFO: 07-15 17:35:10: base_methods.py:122 * 1332 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 17:35:10: base_methods.py:239 * 1332 The element was displayed
+INFO: 07-15 17:35:11: base_methods.py:122 * 1332 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 17:35:13: base_methods.py:220 * 1332 Sleep for 1 seconds
+INFO: 07-15 17:35:13: base_methods.py:207 * 1332 The element '<appium.webdriver.webelement.WebElement (session="6bba46d9-24b0-4af1-8d9d-4811116d600a", element="12")>' was clicked
+INFO: 07-15 17:35:14: base_methods.py:220 * 1332 Sleep for 1 seconds
+INFO: 07-15 17:35:14: base_methods.py:207 * 1332 The element '<appium.webdriver.webelement.WebElement (session="6bba46d9-24b0-4af1-8d9d-4811116d600a", element="13")>' was clicked
+INFO: 07-15 17:35:14: base_methods.py:122 * 1332 Had find the element '退出登录' successful by xpath value: //android.widget.TextView[@text='退出登录']
+INFO: 07-15 17:35:16: base_methods.py:220 * 1332 Sleep for 1 seconds
+INFO: 07-15 17:35:16: base_methods.py:207 * 1332 The element '<appium.webdriver.webelement.WebElement (session="6bba46d9-24b0-4af1-8d9d-4811116d600a", element="14")>' was clicked
+INFO: 07-15 17:35:16: base_methods.py:122 * 1332 Had find the element '退出' successful by xpath value: //android.widget.TextView[@text='退出']
+INFO: 07-15 17:35:17: base_methods.py:220 * 1332 Sleep for 1 seconds
+INFO: 07-15 17:35:17: base_methods.py:207 * 1332 The element '<appium.webdriver.webelement.WebElement (session="6bba46d9-24b0-4af1-8d9d-4811116d600a", element="15")>' was clicked
+INFO: 07-15 17:35:18: base_methods.py:58 * 1332 APP关闭
+INFO: 07-15 17:35:37: base_methods.py:26 * 584  * BaseMethod is calling ...       
+INFO: 07-15 17:35:43: base_methods.py:115 * 584 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 17:35:46: base_methods.py:220 * 584 Sleep for 1 seconds
+INFO: 07-15 17:35:46: base_methods.py:207 * 584 The element '<appium.webdriver.webelement.WebElement (session="d0aca795-c8c9-4551-8839-a1760b019d79", element="1")>' was clicked
+INFO: 07-15 17:35:51: base_methods.py:122 * 584 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text="立即体验"]
+INFO: 07-15 17:35:52: base_methods.py:220 * 584 Sleep for 1 seconds
+INFO: 07-15 17:35:52: base_methods.py:207 * 584 The element '<appium.webdriver.webelement.WebElement (session="d0aca795-c8c9-4551-8839-a1760b019d79", element="2")>' was clicked
+INFO: 07-15 17:35:52: base_methods.py:122 * 584 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 17:35:53: base_methods.py:220 * 584 Sleep for 1 seconds
+INFO: 07-15 17:35:53: base_methods.py:207 * 584 The element '<appium.webdriver.webelement.WebElement (session="d0aca795-c8c9-4551-8839-a1760b019d79", element="3")>' was clicked
+INFO: 07-15 17:35:53: base_methods.py:122 * 584 Had find the element '登录' successful by xpath value: //android.widget.TextView[@text="登录"]
+INFO: 07-15 17:35:55: base_methods.py:220 * 584 Sleep for 1 seconds
+INFO: 07-15 17:35:55: base_methods.py:207 * 584 The element '<appium.webdriver.webelement.WebElement (session="d0aca795-c8c9-4551-8839-a1760b019d79", element="4")>' was clicked
+INFO: 07-15 17:35:56: base_methods.py:122 * 584 Had find the element '请输入您的手机号或用户名' successful by xpath value: //android.widget.EditText[@text="请输入您的手机号或用户名"]
+INFO: 07-15 17:36:06: base_methods.py:220 * 584 Sleep for 1 seconds
+INFO: 07-15 17:36:06: base_methods.py:149 * 584 Had type 'lxx345' in inputbox
+INFO: 07-15 17:36:07: base_methods.py:122 * 584 Had find the element '请输入登录密码' successful by xpath value: //android.widget.EditText[@text="请输入登录密码"]
+INFO: 07-15 17:36:15: base_methods.py:220 * 584 Sleep for 1 seconds
+INFO: 07-15 17:36:15: base_methods.py:149 * 584 Had type '123456xy' in inputbox
+INFO: 07-15 17:36:17: base_methods.py:228 * 584 隐藏键盘
+INFO: 07-15 17:36:19: base_methods.py:122 * 584 Had find the element '登录' successful by xpath value: //android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[3]/android.widget.TextView[1]
+INFO: 07-15 17:36:20: base_methods.py:220 * 584 Sleep for 1 seconds
+INFO: 07-15 17:36:20: base_methods.py:207 * 584 The element '<appium.webdriver.webelement.WebElement (session="d0aca795-c8c9-4551-8839-a1760b019d79", element="7")>' was clicked
+INFO: 07-15 17:36:22: base_methods.py:122 * 584 Had find the element '首页' successful by xpath value: //android.widget.TextView[@text='首页']
+INFO: 07-15 17:36:23: base_methods.py:220 * 584 Sleep for 1 seconds
+INFO: 07-15 17:36:23: base_methods.py:207 * 584 The element '<appium.webdriver.webelement.WebElement (session="d0aca795-c8c9-4551-8839-a1760b019d79", element="8")>' was clicked
+INFO: 07-15 17:36:24: base_methods.py:115 * 584 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 17:36:25: base_methods.py:220 * 584 Sleep for 1 seconds
+INFO: 07-15 17:36:25: base_methods.py:207 * 584 The element '<appium.webdriver.webelement.WebElement (session="d0aca795-c8c9-4551-8839-a1760b019d79", element="9")>' was clicked
+INFO: 07-15 17:36:25: base_methods.py:122 * 584 Had find the element '在线门诊' successful by xpath value: //android.widget.TextView[@text='在线门诊']
+INFO: 07-15 17:36:26: base_methods.py:220 * 584 Sleep for 1 seconds
+INFO: 07-15 17:36:26: base_methods.py:207 * 584 The element '<appium.webdriver.webelement.WebElement (session="d0aca795-c8c9-4551-8839-a1760b019d79", element="10")>' was clicked
+INFO: 07-15 17:36:27: base_methods.py:122 * 584 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 17:36:27: base_methods.py:239 * 584 The element was displayed
+INFO: 07-15 17:36:27: base_methods.py:122 * 584 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 17:36:28: base_methods.py:220 * 584 Sleep for 1 seconds
+INFO: 07-15 17:36:28: base_methods.py:207 * 584 The element '<appium.webdriver.webelement.WebElement (session="d0aca795-c8c9-4551-8839-a1760b019d79", element="12")>' was clicked
+INFO: 07-15 17:36:29: base_methods.py:220 * 584 Sleep for 1 seconds
+INFO: 07-15 17:36:29: base_methods.py:207 * 584 The element '<appium.webdriver.webelement.WebElement (session="d0aca795-c8c9-4551-8839-a1760b019d79", element="13")>' was clicked
+INFO: 07-15 17:36:30: base_methods.py:122 * 584 Had find the element '退出登录' successful by xpath value: //android.widget.TextView[@text='退出登录']
+INFO: 07-15 17:36:31: base_methods.py:220 * 584 Sleep for 1 seconds
+INFO: 07-15 17:36:31: base_methods.py:207 * 584 The element '<appium.webdriver.webelement.WebElement (session="d0aca795-c8c9-4551-8839-a1760b019d79", element="14")>' was clicked
+INFO: 07-15 17:36:31: base_methods.py:122 * 584 Had find the element '退出' successful by xpath value: //android.widget.TextView[@text='退出']
+INFO: 07-15 17:36:32: base_methods.py:220 * 584 Sleep for 1 seconds
+INFO: 07-15 17:36:32: base_methods.py:207 * 584 The element '<appium.webdriver.webelement.WebElement (session="d0aca795-c8c9-4551-8839-a1760b019d79", element="15")>' was clicked
+INFO: 07-15 17:36:33: base_methods.py:58 * 584 APP关闭
+INFO: 07-15 18:01:12: base_methods.py:26 * 9460  * BaseMethod is calling ...       
+INFO: 07-15 18:01:12: base_methods.py:26 * 9460  * BaseMethod is calling ...       
+INFO: 07-15 18:01:18: base_methods.py:115 * 9460 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 18:01:18: base_methods.py:115 * 9460 Had find the element '始终允许' successful by id value: com.android.packageinstaller:id/permission_allow_button
+INFO: 07-15 18:01:21: base_methods.py:220 * 9460 Sleep for 1 seconds
+INFO: 07-15 18:01:21: base_methods.py:220 * 9460 Sleep for 1 seconds
+INFO: 07-15 18:01:21: base_methods.py:207 * 9460 The element '<appium.webdriver.webelement.WebElement (session="edba7831-d30d-4136-8971-73836bd6cb52", element="1")>' was clicked
+INFO: 07-15 18:01:21: base_methods.py:207 * 9460 The element '<appium.webdriver.webelement.WebElement (session="edba7831-d30d-4136-8971-73836bd6cb52", element="1")>' was clicked
+INFO: 07-15 18:01:26: base_methods.py:122 * 9460 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text="立即体验"]
+INFO: 07-15 18:01:26: base_methods.py:122 * 9460 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text="立即体验"]
+INFO: 07-15 18:01:27: base_methods.py:220 * 9460 Sleep for 1 seconds
+INFO: 07-15 18:01:27: base_methods.py:220 * 9460 Sleep for 1 seconds
+INFO: 07-15 18:01:27: base_methods.py:207 * 9460 The element '<appium.webdriver.webelement.WebElement (session="edba7831-d30d-4136-8971-73836bd6cb52", element="2")>' was clicked
+INFO: 07-15 18:01:27: base_methods.py:207 * 9460 The element '<appium.webdriver.webelement.WebElement (session="edba7831-d30d-4136-8971-73836bd6cb52", element="2")>' was clicked
+INFO: 07-15 18:01:27: base_methods.py:122 * 9460 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 18:01:27: base_methods.py:122 * 9460 Had find the element '个人中心' successful by xpath value: //android.widget.TextView[@text="个人中心"]
+INFO: 07-15 18:01:28: base_methods.py:220 * 9460 Sleep for 1 seconds
+INFO: 07-15 18:01:28: base_methods.py:220 * 9460 Sleep for 1 seconds
+INFO: 07-15 18:01:28: base_methods.py:207 * 9460 The element '<appium.webdriver.webelement.WebElement (session="edba7831-d30d-4136-8971-73836bd6cb52", element="3")>' was clicked
+INFO: 07-15 18:01:28: base_methods.py:207 * 9460 The element '<appium.webdriver.webelement.WebElement (session="edba7831-d30d-4136-8971-73836bd6cb52", element="3")>' was clicked
+INFO: 07-15 18:01:28: base_methods.py:122 * 9460 Had find the element '登录' successful by xpath value: //android.widget.TextView[@text="登录"]
+INFO: 07-15 18:01:28: base_methods.py:122 * 9460 Had find the element '登录' successful by xpath value: //android.widget.TextView[@text="登录"]
+INFO: 07-15 18:01:30: base_methods.py:220 * 9460 Sleep for 1 seconds
+INFO: 07-15 18:01:30: base_methods.py:220 * 9460 Sleep for 1 seconds
+INFO: 07-15 18:01:30: base_methods.py:207 * 9460 The element '<appium.webdriver.webelement.WebElement (session="edba7831-d30d-4136-8971-73836bd6cb52", element="4")>' was clicked
+INFO: 07-15 18:01:30: base_methods.py:207 * 9460 The element '<appium.webdriver.webelement.WebElement (session="edba7831-d30d-4136-8971-73836bd6cb52", element="4")>' was clicked
+INFO: 07-15 18:01:31: base_methods.py:122 * 9460 Had find the element '请输入您的手机号或用户名' successful by xpath value: //android.widget.EditText[@text="请输入您的手机号或用户名"]
+INFO: 07-15 18:01:31: base_methods.py:122 * 9460 Had find the element '请输入您的手机号或用户名' successful by xpath value: //android.widget.EditText[@text="请输入您的手机号或用户名"]
+INFO: 07-15 18:01:41: base_methods.py:220 * 9460 Sleep for 1 seconds
+INFO: 07-15 18:01:41: base_methods.py:220 * 9460 Sleep for 1 seconds
+INFO: 07-15 18:01:41: base_methods.py:149 * 9460 Had type 'lxx345' in inputbox
+INFO: 07-15 18:01:41: base_methods.py:149 * 9460 Had type 'lxx345' in inputbox
+INFO: 07-15 18:01:42: base_methods.py:122 * 9460 Had find the element '请输入登录密码' successful by xpath value: //android.widget.EditText[@text="请输入登录密码"]
+INFO: 07-15 18:01:42: base_methods.py:122 * 9460 Had find the element '请输入登录密码' successful by xpath value: //android.widget.EditText[@text="请输入登录密码"]
+INFO: 07-15 18:01:49: base_methods.py:220 * 9460 Sleep for 1 seconds
+INFO: 07-15 18:01:49: base_methods.py:220 * 9460 Sleep for 1 seconds
+INFO: 07-15 18:01:49: base_methods.py:149 * 9460 Had type '123456xy' in inputbox
+INFO: 07-15 18:01:49: base_methods.py:149 * 9460 Had type '123456xy' in inputbox
+INFO: 07-15 18:01:51: base_methods.py:228 * 9460 隐藏键盘
+INFO: 07-15 18:01:51: base_methods.py:228 * 9460 隐藏键盘
+INFO: 07-15 18:01:52: base_methods.py:122 * 9460 Had find the element '登录' successful by xpath value: //android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[3]/android.widget.TextView[1]
+INFO: 07-15 18:01:52: base_methods.py:122 * 9460 Had find the element '登录' successful by xpath value: //android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[3]/android.widget.TextView[1]
+INFO: 07-15 18:01:53: base_methods.py:220 * 9460 Sleep for 1 seconds
+INFO: 07-15 18:01:53: base_methods.py:220 * 9460 Sleep for 1 seconds
+INFO: 07-15 18:01:53: base_methods.py:207 * 9460 The element '<appium.webdriver.webelement.WebElement (session="edba7831-d30d-4136-8971-73836bd6cb52", element="7")>' was clicked
+INFO: 07-15 18:01:53: base_methods.py:207 * 9460 The element '<appium.webdriver.webelement.WebElement (session="edba7831-d30d-4136-8971-73836bd6cb52", element="7")>' was clicked
+INFO: 07-15 18:02:03: base_methods.py:26 * 9460  * BaseMethod is calling ...       
+INFO: 07-15 18:02:03: base_methods.py:26 * 9460  * BaseMethod is calling ...       
+INFO: 07-15 18:06:20: base_methods.py:26 * 16056  * BaseMethod is calling ...       
+INFO: 07-15 18:06:20: base_methods.py:26 * 16056  * BaseMethod is calling ...       
+ERROR: 07-16 09:48:45: config_args.py:36 * 3188  * Config-file error: 'gbk' codec can't decode byte 0x80 in position 5: illegal multibyte sequence
+ERROR: 07-16 09:48:45: config_args.py:36 * 3188  * Config-file error: 'gbk' codec can't decode byte 0x80 in position 5: illegal multibyte sequence
+ERROR: 07-16 09:49:29: config_args.py:36 * 7336  * Config-file error: 'gbk' codec can't decode byte 0x80 in position 5: illegal multibyte sequence
+ERROR: 07-16 09:49:29: config_args.py:36 * 7336  * Config-file error: 'gbk' codec can't decode byte 0x80 in position 5: illegal multibyte sequence
+ERROR: 07-16 09:50:49: config_args.py:36 * 9888  * Config-file error: 'gbk' codec can't decode byte 0x80 in position 5: illegal multibyte sequence
+ERROR: 07-16 09:50:49: config_args.py:36 * 9888  * Config-file error: 'gbk' codec can't decode byte 0x80 in position 5: illegal multibyte sequence
+ERROR: 07-16 09:52:07: config_args.py:36 * 16392  * Config-file error: 'gbk' codec can't decode byte 0x80 in position 5: illegal multibyte sequence
+ERROR: 07-16 09:52:07: config_args.py:36 * 16392  * Config-file error: 'gbk' codec can't decode byte 0x80 in position 5: illegal multibyte sequence
+INFO: 07-16 10:43:42: base_methods.py:26 * 18000  * BaseMethod is calling ...       
+INFO: 07-16 10:43:42: base_methods.py:26 * 18000  * BaseMethod is calling ...       
+INFO: 07-16 10:44:29: base_methods.py:26 * 5296  * BaseMethod is calling ...       
+INFO: 07-16 10:44:29: base_methods.py:26 * 5296  * BaseMethod is calling ...       
+INFO: 07-16 10:45:43: base_methods.py:26 * 8700  * BaseMethod is calling ...       
+INFO: 07-16 10:45:43: base_methods.py:26 * 8700  * BaseMethod is calling ...       
+INFO: 07-16 10:45:52: base_methods.py:26 * 8700  * BaseMethod is calling ...       
+INFO: 07-16 10:45:52: base_methods.py:26 * 8700  * BaseMethod is calling ...       
+INFO: 07-16 10:47:31: base_methods.py:26 * 17320  * BaseMethod is calling ...       
+INFO: 07-16 10:47:31: base_methods.py:26 * 17320  * BaseMethod is calling ...       
+INFO: 07-16 10:48:46: base_methods.py:26 * 10660  * BaseMethod is calling ...       
+INFO: 07-16 10:48:46: base_methods.py:26 * 10660  * BaseMethod is calling ...       
+INFO: 07-16 10:49:02: base_methods.py:26 * 10660  * BaseMethod is calling ...       
+INFO: 07-16 10:49:02: base_methods.py:26 * 10660  * BaseMethod is calling ...       
+INFO: 07-16 10:58:04: remote_connection.py:206 * 11016 Could not connect to port 4725 on host 127.0.0.1
+INFO: 07-16 10:58:04: remote_connection.py:206 * 11016 Could not connect to port 4725 on host 127.0.0.1
+INFO: 07-16 10:58:04: remote_connection.py:226 * 11016 Could not get IP address for host: 127.0.0.1
+INFO: 07-16 10:58:04: remote_connection.py:226 * 11016 Could not get IP address for host: 127.0.0.1
+INFO: 07-16 10:58:39: base_methods.py:26 * 9436  * BaseMethod is calling ...       
+INFO: 07-16 10:58:39: base_methods.py:26 * 9436  * BaseMethod is calling ...       
+INFO: 07-16 11:03:41: base_methods.py:26 * 16480  * BaseMethod is calling ...       
+INFO: 07-16 11:03:41: base_methods.py:26 * 16480  * BaseMethod is calling ...       
+INFO: 07-16 11:05:15: base_methods.py:26 * 16828  * BaseMethod is calling ...       
+INFO: 07-16 11:05:15: base_methods.py:26 * 16828  * BaseMethod is calling ...       
+INFO: 07-16 11:06:17: base_methods.py:26 * 4016  * BaseMethod is calling ...       
+INFO: 07-16 11:06:17: base_methods.py:26 * 4016  * BaseMethod is calling ...       
+INFO: 07-16 11:07:30: base_methods.py:26 * 14892  * BaseMethod is calling ...       
+INFO: 07-16 11:07:30: base_methods.py:26 * 14892  * BaseMethod is calling ...       
+INFO: 07-16 11:08:01: base_methods.py:26 * 14392  * BaseMethod is calling ...       
+INFO: 07-16 11:08:01: base_methods.py:26 * 14392  * BaseMethod is calling ...       
+INFO: 07-16 11:08:12: base_methods.py:122 * 14392 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text='立即体验']
+INFO: 07-16 11:08:12: base_methods.py:122 * 14392 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text='立即体验']
+INFO: 07-16 11:08:16: base_methods.py:220 * 14392 Sleep for 1 seconds
+INFO: 07-16 11:08:16: base_methods.py:220 * 14392 Sleep for 1 seconds
+INFO: 07-16 11:08:16: base_methods.py:207 * 14392 The element '<appium.webdriver.webelement.WebElement (session="a45ae2d2-fca3-4b84-8cf1-d7612208f629", element="1")>' was clicked
+INFO: 07-16 11:08:16: base_methods.py:207 * 14392 The element '<appium.webdriver.webelement.WebElement (session="a45ae2d2-fca3-4b84-8cf1-d7612208f629", element="1")>' was clicked
+INFO: 07-16 11:09:00: base_methods.py:26 * 11360  * BaseMethod is calling ...       
+INFO: 07-16 11:09:00: base_methods.py:26 * 11360  * BaseMethod is calling ...       
+INFO: 07-16 11:09:11: base_methods.py:122 * 11360 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text='立即体验']
+INFO: 07-16 11:09:11: base_methods.py:122 * 11360 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text='立即体验']
+INFO: 07-16 11:09:15: base_methods.py:220 * 11360 Sleep for 1 seconds
+INFO: 07-16 11:09:15: base_methods.py:220 * 11360 Sleep for 1 seconds
+INFO: 07-16 11:09:15: base_methods.py:207 * 11360 The element '<appium.webdriver.webelement.WebElement (session="d9f97b64-0e7e-4c2d-9c68-1bf4b895cc06", element="1")>' was clicked
+INFO: 07-16 11:09:15: base_methods.py:207 * 11360 The element '<appium.webdriver.webelement.WebElement (session="d9f97b64-0e7e-4c2d-9c68-1bf4b895cc06", element="1")>' was clicked
+INFO: 07-16 11:13:06: base_methods.py:220 * 11360 Sleep for 1 seconds
+INFO: 07-16 11:13:06: base_methods.py:220 * 11360 Sleep for 1 seconds
+INFO: 07-16 11:13:06: base_methods.py:207 * 11360 The element '<appium.webdriver.webelement.WebElement (session="d9f97b64-0e7e-4c2d-9c68-1bf4b895cc06", element="2")>' was clicked
+INFO: 07-16 11:13:06: base_methods.py:207 * 11360 The element '<appium.webdriver.webelement.WebElement (session="d9f97b64-0e7e-4c2d-9c68-1bf4b895cc06", element="2")>' was clicked
+INFO: 07-16 11:13:06: base_methods.py:122 * 11360 Had find the element '请输入手机号码' successful by xpath value: //android.widget.EditText[@text="请输入手机号码"]
+INFO: 07-16 11:13:06: base_methods.py:122 * 11360 Had find the element '请输入手机号码' successful by xpath value: //android.widget.EditText[@text="请输入手机号码"]
+INFO: 07-16 11:13:15: base_methods.py:220 * 11360 Sleep for 1 seconds
+INFO: 07-16 11:13:15: base_methods.py:220 * 11360 Sleep for 1 seconds
+INFO: 07-16 11:13:15: base_methods.py:149 * 11360 Had type '13679103525' in inputbox
+INFO: 07-16 11:13:15: base_methods.py:149 * 11360 Had type '13679103525' in inputbox
+INFO: 07-16 11:13:16: base_methods.py:122 * 11360 Had find the element '请输入密码' successful by xpath value: //android.widget.EditText[@text="请输入密码"]
+INFO: 07-16 11:13:16: base_methods.py:122 * 11360 Had find the element '请输入密码' successful by xpath value: //android.widget.EditText[@text="请输入密码"]
+INFO: 07-16 11:13:25: base_methods.py:220 * 11360 Sleep for 1 seconds
+INFO: 07-16 11:13:25: base_methods.py:220 * 11360 Sleep for 1 seconds
+INFO: 07-16 11:13:25: base_methods.py:149 * 11360 Had type '123456xy' in inputbox
+INFO: 07-16 11:13:25: base_methods.py:149 * 11360 Had type '123456xy' in inputbox
+INFO: 07-16 11:13:29: base_methods.py:228 * 11360 隐藏键盘
+INFO: 07-16 11:13:29: base_methods.py:228 * 11360 隐藏键盘
+INFO: 07-16 11:38:12: base_methods.py:26 * 7940  * BaseMethod is calling ...       
+INFO: 07-16 11:38:12: base_methods.py:26 * 7940  * BaseMethod is calling ...       
+INFO: 07-16 11:38:23: base_methods.py:122 * 7940 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text='立即体验']
+INFO: 07-16 11:38:23: base_methods.py:122 * 7940 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text='立即体验']
+INFO: 07-16 11:38:27: base_methods.py:220 * 7940 Sleep for 1 seconds
+INFO: 07-16 11:38:27: base_methods.py:220 * 7940 Sleep for 1 seconds
+INFO: 07-16 11:38:27: base_methods.py:207 * 7940 The element '<appium.webdriver.webelement.WebElement (session="4c6fddd5-cb6b-41f4-985f-f638304f39dc", element="1")>' was clicked
+INFO: 07-16 11:38:27: base_methods.py:207 * 7940 The element '<appium.webdriver.webelement.WebElement (session="4c6fddd5-cb6b-41f4-985f-f638304f39dc", element="1")>' was clicked
+INFO: 07-16 11:40:30: base_methods.py:26 * 15016  * BaseMethod is calling ...       
+INFO: 07-16 11:40:30: base_methods.py:26 * 15016  * BaseMethod is calling ...       
+INFO: 07-16 11:40:41: base_methods.py:122 * 15016 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text='立即体验']
+INFO: 07-16 11:40:41: base_methods.py:122 * 15016 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text='立即体验']
+INFO: 07-16 11:40:45: base_methods.py:220 * 15016 Sleep for 1 seconds
+INFO: 07-16 11:40:45: base_methods.py:220 * 15016 Sleep for 1 seconds
+INFO: 07-16 11:40:45: base_methods.py:207 * 15016 The element '<appium.webdriver.webelement.WebElement (session="51cfa439-3615-47db-b8ca-75b3950a5e33", element="1")>' was clicked
+INFO: 07-16 11:40:45: base_methods.py:207 * 15016 The element '<appium.webdriver.webelement.WebElement (session="51cfa439-3615-47db-b8ca-75b3950a5e33", element="1")>' was clicked
+INFO: 07-16 11:44:16: base_methods.py:26 * 7940  * BaseMethod is calling ...       
+INFO: 07-16 11:44:16: base_methods.py:26 * 7940  * BaseMethod is calling ...       
+INFO: 07-16 11:44:27: base_methods.py:122 * 7940 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text='立即体验']
+INFO: 07-16 11:44:27: base_methods.py:122 * 7940 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text='立即体验']
+INFO: 07-16 11:44:31: base_methods.py:220 * 7940 Sleep for 1 seconds
+INFO: 07-16 11:44:31: base_methods.py:220 * 7940 Sleep for 1 seconds
+INFO: 07-16 11:44:31: base_methods.py:207 * 7940 The element '<appium.webdriver.webelement.WebElement (session="8ac02eeb-1fe2-4b70-a5ba-990713334ede", element="1")>' was clicked
+INFO: 07-16 11:44:31: base_methods.py:207 * 7940 The element '<appium.webdriver.webelement.WebElement (session="8ac02eeb-1fe2-4b70-a5ba-990713334ede", element="1")>' was clicked
+INFO: 07-16 11:50:43: base_methods.py:26 * 16412  * BaseMethod is calling ...       
+INFO: 07-16 11:50:43: base_methods.py:26 * 16412  * BaseMethod is calling ...       
+INFO: 07-16 11:50:54: base_methods.py:122 * 16412 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text='立即体验']
+INFO: 07-16 11:50:54: base_methods.py:122 * 16412 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text='立即体验']
+INFO: 07-16 11:50:58: base_methods.py:220 * 16412 Sleep for 1 seconds
+INFO: 07-16 11:50:58: base_methods.py:220 * 16412 Sleep for 1 seconds
+INFO: 07-16 11:50:58: base_methods.py:207 * 16412 The element '<appium.webdriver.webelement.WebElement (session="fd0a2993-77c9-4479-bb91-d244312af0ee", element="1")>' was clicked
+INFO: 07-16 11:50:58: base_methods.py:207 * 16412 The element '<appium.webdriver.webelement.WebElement (session="fd0a2993-77c9-4479-bb91-d244312af0ee", element="1")>' was clicked
+INFO: 07-16 11:57:51: base_methods.py:26 * 17404  * BaseMethod is calling ...       
+INFO: 07-16 11:57:51: base_methods.py:26 * 17404  * BaseMethod is calling ...       
+INFO: 07-16 11:58:02: base_methods.py:122 * 17404 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text='立即体验']
+INFO: 07-16 11:58:02: base_methods.py:122 * 17404 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text='立即体验']
+INFO: 07-16 11:58:07: base_methods.py:220 * 17404 Sleep for 1 seconds
+INFO: 07-16 11:58:07: base_methods.py:220 * 17404 Sleep for 1 seconds
+INFO: 07-16 11:58:07: base_methods.py:207 * 17404 The element '<appium.webdriver.webelement.WebElement (session="a2b0c71e-7458-47a2-9e35-081242d23da8", element="1")>' was clicked
+INFO: 07-16 11:58:07: base_methods.py:207 * 17404 The element '<appium.webdriver.webelement.WebElement (session="a2b0c71e-7458-47a2-9e35-081242d23da8", element="1")>' was clicked
+INFO: 07-16 11:59:49: base_methods.py:26 * 4112  * BaseMethod is calling ...       
+INFO: 07-16 11:59:49: base_methods.py:26 * 4112  * BaseMethod is calling ...       
+INFO: 07-16 12:00:00: base_methods.py:122 * 4112 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text='立即体验']
+INFO: 07-16 12:00:00: base_methods.py:122 * 4112 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text='立即体验']
+INFO: 07-16 12:00:04: base_methods.py:220 * 4112 Sleep for 1 seconds
+INFO: 07-16 12:00:04: base_methods.py:220 * 4112 Sleep for 1 seconds
+INFO: 07-16 12:00:04: base_methods.py:207 * 4112 The element '<appium.webdriver.webelement.WebElement (session="40f3a979-8790-42f0-8b8e-a84811500aee", element="1")>' was clicked
+INFO: 07-16 12:00:04: base_methods.py:207 * 4112 The element '<appium.webdriver.webelement.WebElement (session="40f3a979-8790-42f0-8b8e-a84811500aee", element="1")>' was clicked
+INFO: 07-16 14:53:48: base_methods.py:26 * 17668  * BaseMethod is calling ...       
+INFO: 07-16 14:53:48: base_methods.py:26 * 17668  * BaseMethod is calling ...       
+INFO: 07-16 14:53:58: base_methods.py:122 * 17668 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text='立即体验']
+INFO: 07-16 14:53:58: base_methods.py:122 * 17668 Had find the element '立即体验' successful by xpath value: //android.widget.TextView[@text='立即体验']
+INFO: 07-16 14:54:03: base_methods.py:220 * 17668 Sleep for 1 seconds
+INFO: 07-16 14:54:03: base_methods.py:220 * 17668 Sleep for 1 seconds
+INFO: 07-16 14:54:03: base_methods.py:207 * 17668 The element '<appium.webdriver.webelement.WebElement (session="54390a23-d73b-4d0b-b872-1c4eb24e6c72", element="1")>' was clicked
+INFO: 07-16 14:54:03: base_methods.py:207 * 17668 The element '<appium.webdriver.webelement.WebElement (session="54390a23-d73b-4d0b-b872-1c4eb24e6c72", element="1")>' was clicked
